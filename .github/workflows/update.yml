@@ -1,0 +1,32 @@
+# This is a basic workflow to help you get started with Actions
+
+name: update
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 10 * * *'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+    scheduled:
+      runs-on: ubuntu-latest
+      steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          check-latest: true
+      - run: npm install
+      - run: npm install osmtogeojson
+      - run: curl -G 'http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A250%5D%3Barea%283600044107%29%2D%3E%2EsearchArea%3B%28node%5B%22emergency%22%3D%22defibrillator%22%5D%28area%2EsearchArea%29%3B%29%3Bout%3B%3E%3Bout%20skel%20qt%3B%0A' > 'aed.json'
+      - run: osmtogeojson aed.json > aed.geojson
+      - name: Commit and push if changed
+        run: |-
+           git config user.name "Automated"
+           git config user.email "actions@users.noreply.github.com"
+           git add aed.geojson
+           timestamp=$(date -u)
+           git commit -m "Latest data: ${timestamp}"
+           git push
