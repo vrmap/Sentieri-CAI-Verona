@@ -1,901 +1,662 @@
 {
-"CAI n. 1":{
-            "path" : "data/geojson/CAI/1.geojson",
-            "path_gpx" : "data/gpx/CAI/1.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4536788",
-			"ref": "1"
-            },				
-"CAI n. 2":{
-            "path" : "data/geojson/CAI/2.geojson",
-            "path_gpx" : "data/gpx/CAI/2.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2980760",
-			"ref": "2"
-            },						
-"CAI n. 3":{
-            "path" : "data/geojson/CAI/3.geojson",
-            "path_gpx" : "data/gpx/CAI/3.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "1066071",
-			"ref": "3"
-            },								
-"CAI n. 4":{
-            "path" : "data/geojson/CAI/4.geojson",
-            "path_gpx" : "data/gpx/CAI/4.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2980762",
-			"ref": "4"
-            },
-"CAI n. 4A":{
-            "path" : "data/geojson/CAI/4A.geojson",
-            "path_gpx" : "data/gpx/CAI/4A.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9425491",
-			"ref": "4A"
-            },	
-"CAI n. 4B":{
-            "path" : "data/geojson/CAI/4B.geojson",
-            "path_gpx" : "data/gpx/CAI/4B.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9426368",
-			"ref": "4B"
-            },				
-"CAI n. 5":{
-            "path" : "data/geojson/CAI/5.geojson",
-            "path_gpx" : "data/gpx/CAI/5.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4536858",
-			"ref": "5"
-            },								
-"CAI n. 6":{
-            "path" : "data/geojson/CAI/6.geojson",
-            "path_gpx" : "data/gpx/CAI/6.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2980763",
-			"ref": "6"
-            },	
-"CAI n. 6bis":{
-            "path" : "data/geojson/CAI/6bis.geojson",
-            "path_gpx" : "data/gpx/CAI/6bis.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2980766",
-			"ref": "6bis"
-            },					
-"CAI n. 7":{
-            "path" : "data/geojson/CAI/7.geojson",
-            "path_gpx" : "data/gpx/CAI/7.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4536857",
-			"ref": "7"
-            },								
-            
-"CAI n. 9":{
-            "path" : "data/geojson/CAI/9.geojson",
-            "path_gpx" : "data/gpx/CAI/9.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4536786",
-			"ref": "9"
-            },				
-"CAI n. 10":{
-            "path" : "data/geojson/CAI/10.geojson",
-            "path_gpx" : "data/gpx/CAI/10.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2980758",
-			"ref": "10"
-            },						
-"CAI n. 11":{
-            "path" : "data/geojson/CAI/11.geojson",
-            "path_gpx" : "data/gpx/CAI/11.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4537556",
-			"ref": "11"
-            },							
-"CAI n. 13":{
-            "path" : "data/geojson/CAI/13.geojson",
-            "path_gpx" : "data/gpx/CAI/13.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4641027",
-			"ref": "13"
-            },
-"CAI n. 20":{
-            "path" : "data/geojson/CAI/20.geojson",
-            "path_gpx" : "data/gpx/CAI/20.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "7869013",
-			"ref": "20"
-            },	
-"CAI n. 30":{
-            "path" : "data/geojson/CAI/30.geojson",
-            "path_gpx" : "data/gpx/CAI/30.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4537674",
-			"ref": "30"
-            },				
-"CAI n. 31":{
-            "path" : "data/geojson/CAI/31.geojson",
-            "path_gpx" : "data/gpx/CAI/31.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3599897",
-			"ref": "31"
-            },						
-"CAI n. 32":{
-            "path" : "data/geojson/CAI/32.geojson",
-            "path_gpx" : "data/gpx/CAI/32.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2289891",
-			"ref": "32"
-            },				
-"CAI n. 33":{
-            "path" : "data/geojson/CAI/33.geojson",
-            "path_gpx" : "data/gpx/CAI/33.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4786193",
-			"ref": "33"
-            },				
-"CAI n. 34":{
-            "path" : "data/geojson/CAI/34.geojson",
-            "path_gpx" : "data/gpx/CAI/34.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3599898",
-			"ref": "34"
-            },				
-"CAI n. 37":{
-            "path" : "data/geojson/CAI/37.geojson",
-            "path_gpx" : "data/gpx/CAI/37.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "6930662",
-			"ref": "37"
-            },
-"CAI n. 38":{
-            "path" : "data/geojson/CAI/38.geojson",
-            "path_gpx" : "data/gpx/CAI/38.gpx",				
-            "color" : "red",
-            "prof_alt" : "yes",
-            "ref_rel": "6922998",
-			"ref": "38"
-            },
-"CAI n. 39":{
-            "path" : "data/geojson/CAI/39.geojson",
-            "path_gpx" : "data/gpx/CAI/39.gpx",				
-            "color" : "red",
-            "prof_alt" : "yes",
-            "ref_rel": "6907846",
-			"ref": "39"
-            },
-"CAI n. 40":{
-            "path" : "data/geojson/CAI/40.geojson",
-            "path_gpx" : "data/gpx/CAI/40.gpx",				
-            "color" : "red",
-            "prof_alt" : "yes",
-            "ref_rel": "7813436",
-			"ref": "40"
-            },
-"CAI n. 41":{
-            "path" : "data/geojson/CAI/41.geojson",
-            "path_gpx" : "data/gpx/CAI/41.gpx",				
-            "color" : "red",
-            "prof_alt" : "yes",
-            "ref_rel": "7813435",
-			"ref": "41"
-            },
-"CAI n. 51":{
-            "path" : "data/geojson/CAI/51.geojson",
-            "path_gpx" : "data/gpx/CAI/51.gpx",				
-            "color" : "red",
-            "prof_alt" : "yes",
-            "ref_rel": "3774905",
-			"ref": "51"
-            },
-"CAI n. 52":{
-            "path" : "data/geojson/CAI/52.geojson",
-            "path_gpx" : "data/gpx/CAI/52.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "5163609",
-			"ref": "52"
-            },
-"CAI n. 53":{
-            "path" : "data/geojson/CAI/53.geojson",
-            "path_gpx" : "data/gpx/CAI/53.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3720016",
-			"ref": "53"
-            },
-"CAI n. 54":{
-            "path" : "data/geojson/CAI/54.geojson",
-            "path_gpx" : "data/gpx/CAI/54.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "5149380",
-			"ref": "54"
-            },
-"CAI n. 55":{
-            "path" : "data/geojson/CAI/55.geojson",
-            "path_gpx" : "data/gpx/CAI/55.gpx",				
-            "color" : "red",
-            "prof_alt" : "yes",
-            "ref_rel": "4537756",
-			"ref": "55"
-            },				
-"CAI n. 57":{
-            "path" : "data/geojson/CAI/57.geojson",
-            "path_gpx" : "data/gpx/CAI/57.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "7496685",
-			"ref": "57"
-            },
-"CAI n. 62":{
-            "path" : "data/geojson/CAI/62.geojson",
-            "path_gpx" : "data/gpx/CAI/62.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3219094",
-			"ref": "62"
-            },
-"CAI n. 64":{
-            "path" : "data/geojson/CAI/64.geojson",
-            "path_gpx" : "data/gpx/CAI/64.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3720017",
-			"ref": "64"
-            },
-"CAI n. 66":{
-            "path" : "data/geojson/CAI/66.geojson",
-            "path_gpx" : "data/gpx/CAI/66.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3755563",
-			"ref": "66"
-            },
-"CAI n. 67":{
-            "path" : "data/geojson/CAI/67.geojson",
-            "path_gpx" : "data/gpx/CAI/67.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "7597151",
-			"ref": "67"
-            },
-"CAI n. 71":{
-            "path" : "data/geojson/CAI/71.geojson",
-            "path_gpx" : "data/gpx/CAI/71.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4640622",
-			"ref": "71"
-            },
-"CAI n. 71a":{
-            "path" : "data/geojson/CAI/71a.geojson",
-            "path_gpx" : "data/gpx/CAI/71a.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "6520229",
-			"ref": "71a"
-            },
-            
-"CAI n. 73":{
-            "path" : "data/geojson/CAI/73.geojson",
-            "path_gpx" : "data/gpx/CAI/73.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4640620",
-			"ref": "73"
-            },
-"CAI n. 75":{
-            "path" : "data/geojson/CAI/75.geojson",
-            "path_gpx" : "data/gpx/CAI/75.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9523574",
-			"ref": "75"
-            },
-"CAI n. 76":{
-            "path" : "data/geojson/CAI/76.geojson",
-            "path_gpx" : "data/gpx/CAI/76.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "6995131",
-			"ref": "76"
-            },				
-"CAI n. 111":{
-            "path" : "data/geojson/CAI/111.geojson",
-            "path_gpx" : "data/gpx/CAI/111.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9342558",
-			"ref": "111"
-            },
-"CAI n. 113":{
-            "path" : "data/geojson/CAI/113.geojson",
-            "path_gpx" : "data/gpx/CAI/113.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9342557",
-			"ref": "113"
-            },					
-"CAI n. 185":{
-            "path" : "data/geojson/CAI/185.geojson",
-            "path_gpx" : "data/gpx/CAI/185.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "7405942",
-			"ref": "185"
-            },
-"CAI n. 186_1":{
-            "path" : "data/geojson/CAI/186_1.geojson",
-            "path_gpx" : "data/gpx/CAI/186_1.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3814649",
-			"ref": "186_1"
-            },
-"CAI n. 186_2":{
-            "path" : "data/geojson/CAI/186_2.geojson",
-            "path_gpx" : "data/gpx/CAI/186_2.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9681044",
-			"ref": "186_2"
-            },
-"CAI n. 189":{
-            "path" : "data/geojson/CAI/189.geojson",
-            "path_gpx" : "data/gpx/CAI/189.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3799680",
-			"ref": "189"
-            },
-"CAI n. 190":{
-            "path" : "data/geojson/CAI/190.geojson",
-            "path_gpx" : "data/gpx/CAI/190.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "5490358",
-			"ref": "190"
-            },				
-"CAI n. 205":{
-            "path" : "data/geojson/CAI/205.geojson",
-            "path_gpx" : "data/gpx/CAI/205.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2800301",
-			"ref": "205"
-            },						
-"CAI n. 231":{
-            "path" : "data/geojson/CAI/231.geojson",
-            "path_gpx" : "data/gpx/CAI/231.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "5900016",
-			"ref": "231"
-            },				
-"CAI n. 232":{
-            "path" : "data/geojson/CAI/232.geojson",
-            "path_gpx" : "data/gpx/CAI/232.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4679450",
-			"ref": "232"
-            },						
-"CAI n. 233":{
-            "path" : "data/geojson/CAI/233.geojson",
-            "path_gpx" : "data/gpx/CAI/233.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4657494",
-			"ref": "233"
-            },
-"CAI n. 234":{
-            "path" : "data/geojson/CAI/234.geojson",
-            "path_gpx" : "data/gpx/CAI/234.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "5635206",
-			"ref": "234"
-            },				
-"CAI n. 235":{
-            "path" : "data/geojson/CAI/235.geojson",
-            "path_gpx" : "data/gpx/CAI/235.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "8487508",
-			"ref": "235"
-            },						
-"CAI n. 236":{
-            "path" : "data/geojson/CAI/236.geojson",
-            "path_gpx" : "data/gpx/CAI/236.gpx",		
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4727763",
-			"ref": "236"
-            },				
-"CAI n. 237":{
-            "path" : "data/geojson/CAI/237.geojson",
-            "path_gpx" : "data/gpx/CAI/237.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4837086",
-			"ref": "237"
-            },				
-"CAI n. 238":{
-            "path" : "data/geojson/CAI/238.geojson",
-            "path_gpx" : "data/gpx/CAI/238.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4729760",
-			"ref": "238"
-            },						
-"CAI n. 240":{
-    "path" : "data/geojson/CAI/240.geojson",
-            "path_gpx" : "data/gpx/CAI/240.gpx",		
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4677295",
-			"ref": "240"
-            },
-"CAI n. 248":{
-			"path" : "data/geojson/CAI/248.geojson",
-            "path_gpx" : "data/gpx/CAI/248.gpx",		
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9603119",
-			"ref": "248"
-            },				
-"CAI n. 249":{
-			"path" : "data/geojson/CAI/249.geojson",
-            "path_gpx" : "data/gpx/CAI/249.gpx",		
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "8557256",
-			"ref": "249"
-            },					
-"CAI n. 250_1":{
-            "path" : "data/geojson/CAI/250_1.geojson",
-            "path_gpx" : "data/gpx/CAI/250_1.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9489538",
-			"ref": "250_1"
-            },
-"CAI n. 250_2":{
-            "path" : "data/geojson/CAI/250_2.geojson",
-            "path_gpx" : "data/gpx/CAI/250_2.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9333022",
-			"ref": "250_2"
-            },				
-"CAI n. 250_3":{
-            "path" : "data/geojson/CAI/250_3.geojson",
-            "path_gpx" : "data/gpx/CAI/250_3.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2469231",
-			"ref": "250_3"
-            },				
-"CAI n. 250_4":{
-            "path" : "data/geojson/CAI/250_4.geojson",
-            "path_gpx" : "data/gpx/CAI/250_4.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9333023",
-			"ref": "250_4"
-            },
-"CAI n. 250A":{
-            "path" : "data/geojson/CAI/250A.geojson",
-            "path_gpx" : "data/gpx/CAI/250A.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9600673",
-			"ref": "250A"
-            },					
-"CAI n. 251_1":{
-            "path" : "data/geojson/CAI/251_1.geojson",
-            "path_gpx" : "data/gpx/CAI/251_1.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9546074",
-			"ref": "251_1"
-            },
-"CAI n. 251_2":{
-            "path" : "data/geojson/CAI/251_2.geojson",
-            "path_gpx" : "data/gpx/CAI/251_2.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9550703",
-			"ref": "251_2"
-            },
-"CAI n. 251_3":{
-            "path" : "data/geojson/CAI/251_3.geojson",
-            "path_gpx" : "data/gpx/CAI/251_3.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3236810",
-			"ref": "251_3"
-            },				
-"CAI n. 252_1":{
-            "path" : "data/geojson/CAI/252.geojson",
-            "path_gpx" : "data/gpx/CAI/252.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9503687",
-			"ref": "252_1"
-            },
-"CAI n. 252_2":{
-            "path" : "data/geojson/CAI/252.geojson",
-            "path_gpx" : "data/gpx/CAI/252.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9571418",
-			"ref": "252_2"
-            },
-"CAI n. 252_3":{
-            "path" : "data/geojson/CAI/252.geojson",
-            "path_gpx" : "data/gpx/CAI/252.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3652489",
-			"ref": "252_3"
-            },				
-"CAI n. 253":{
-            "path" : "data/geojson/CAI/253.geojson",
-            "path_gpx" : "data/gpx/CAI/253.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2804920",
-			"ref": "253"
-            },
-"CAI n. 254":{
-            "path" : "data/geojson/CAI/254.geojson",
-            "path_gpx" : "data/gpx/CAI/254.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3336501",
-			"ref": "254"
-            },				
-"CAI n. 255":{
-            "path" : "data/geojson/CAI/255.geojson",
-            "path_gpx" : "data/gpx/CAI/255.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3236598",
-			"ref": "255"
-            },
-"CAI n. 256":{
-            "path" : "data/geojson/CAI/256.geojson",
-            "path_gpx" : "data/gpx/CAI/256.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2394712",
-			"ref": "256"
-            },
-"CAI n. 257_1":{
-            "path" : "data/geojson/CAI/257_1.geojson",
-            "path_gpx" : "data/gpx/CAI/257_1.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9388300",
-			"ref": "257_1"
-            },				
-"CAI n. 257_2":{
-            "path" : "data/geojson/CAI/257_2.geojson",
-            "path_gpx" : "data/gpx/CAI/257_2.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3151926",
-			"ref": "257_2"
-            },
-"CAI n. 257_3":{
-            "path" : "data/geojson/CAI/257_3.geojson",
-            "path_gpx" : "data/gpx/CAI/257_3.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9343633",
-			"ref": "257_3"
-            },				
-"CAI n. 261":{
-            "path" : "data/geojson/CAI/261.geojson",
-            "path_gpx" : "data/gpx/CAI/261.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "6159350",
-			"ref": "261"
-            },
-"CAI n. 261A":{
-            "path" : "data/geojson/CAI/261A.geojson",
-            "path_gpx" : "data/gpx/CAI/261A.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "7168079",
-			"ref": "261A"
-            },
-"CAI n. 261B":{
-            "path" : "data/geojson/CAI/261B.geojson",
-            "path_gpx" : "data/gpx/CAI/261B.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "6159351",
-			"ref": "261B"
-            },				
-"CAI n. 262":{
-            "path" : "data/geojson/CAI/262.geojson",
-            "path_gpx" : "data/gpx/CAI/262.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9388301",
-			"ref": "262"
-            },				
-"CAI n. 262A":{
-            "path" : "data/geojson/CAI/262A.geojson",
-            "path_gpx" : "data/gpx/CAI/262A.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4602244",
-			"ref": "262A"
-            },
-"CAI n. 270":{
-            "path" : "data/geojson/CAI/270.geojson",
-            "path_gpx" : "data/gpx/CAI/270.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "5635451",
-			"ref": "270"
-            },				
-"CAI n. 276":{
-            "path" : "data/geojson/CAI/276.geojson",
-            "path_gpx" : "data/gpx/CAI/276.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "8384682",
-			"ref": "276"
-            },				
-"CAI n. 277":{
-            "path" : "data/geojson/CAI/277.geojson",
-            "path_gpx" : "data/gpx/CAI/277.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "8384699",
-			"ref": "277"
-            },					
-"CAI n. 279":{
-            "path" : "data/geojson/CAI/279.geojson",
-            "path_gpx" : "data/gpx/CAI/279.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2804910",
-			"ref": "279"
-            },						
-"CAI n. 280":{
-            "path" : "data/geojson/CAI/280.geojson",
-            "path_gpx" : "data/gpx/CAI/280.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2804906",
-			"ref": "280"
-            },					
-"CAI n. 281_1":{
-            "path" : "data/geojson/CAI/281_1.geojson",
-            "path_gpx" : "data/gpx/CAI/281_1.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2804911",
-			"ref": "281_1"
-            },
-"CAI n. 281_2":{
-            "path" : "data/geojson/CAI/281_2.geojson",
-            "path_gpx" : "data/gpx/CAI/281_2.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9922122",
-			"ref": "281_2"
-            },				
-"CAI n. 282":{
-            "path" : "data/geojson/CAI/282.geojson",
-            "path_gpx" : "data/gpx/CAI/282.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2804907",
-			"ref": "282"
-            },					
-"CAI n. 283":{
-            "path" : "data/geojson/CAI/283.geojson",
-            "path_gpx" : "data/gpx/CAI/283.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "8384696",
-			"ref": "283"
-            },
-"CAI n. 284":{
-            "path" : "data/geojson/CAI/284.geojson",
-            "path_gpx" : "data/gpx/CAI/284.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9661295",
-			"ref": "284"
-            },
-"CAI n. 285":{
-            "path" : "data/geojson/CAI/285.geojson",
-            "path_gpx" : "data/gpx/CAI/285.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9661296",
-			"ref": "285"
-            },				
-"CAI n. 287_1":{
-            "path" : "data/geojson/CAI/287_1.geojson",
-            "path_gpx" : "data/gpx/CAI/287_1.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9352948",
-			"ref": "287_1"
-            },
-"CAI n. 287_2":{
-            "path" : "data/geojson/CAI/287_2.geojson",
-            "path_gpx" : "data/gpx/CAI/287_2.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9352949",
-			"ref": "287_2"
-            },
-"CAI n. 288":{
-            "path" : "data/geojson/CAI/288.geojson",
-            "path_gpx" : "data/gpx/CAI/288.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3799682",
-			"ref": "288"
-            },								
-"CAI n. 634":{
-            "path" : "data/geojson/CAI/634.geojson",
-            "path_gpx" : "data/gpx/CAI/634.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "2980764",
-			"ref": "634"
-            },
-"CAI n. 651":{
-            "path" : "data/geojson/CAI/651.geojson",
-            "path_gpx" : "data/gpx/CAI/651.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9602454",
-			"ref": "651"
-            },					
-"CAI n. 652":{
-            "path" : "data/geojson/CAI/652.geojson",
-            "path_gpx" : "data/gpx/CAI/652.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "7837923",
-			"ref": "652"
-            },						
-"CAI n. 652A":{
-            "path" : "data/geojson/CAI/652A.geojson",
-            "path_gpx" : "data/gpx/CAI/652A.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "7837924",
-			"ref": "652A"
-            },					
-"CAI n. 654":{
-            "path" : "data/geojson/CAI/654.geojson",
-            "path_gpx" : "data/gpx/CAI/654.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3774906",
-			"ref": "654"
-            },
-"CAI n. 655_1":{
-            "path" : "data/geojson/CAI/655_1.geojson",
-            "path_gpx" : "data/gpx/CAI/655_1.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9353400",
-			"ref": "655_1"
-            },
-"CAI n. 655_2":{
-            "path" : "data/geojson/CAI/655_2.geojson",
-            "path_gpx" : "data/gpx/CAI/655_2.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3105223",
-			"ref": "655_2"
-            },
-"CAI n. 656":{
-            "path" : "data/geojson/CAI/656.geojson",
-            "path_gpx" : "data/gpx/CAI/656.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "7840367",
-			"ref": "656"
-            },					
-"CAI n. 657":{
-            "path" : "data/geojson/CAI/657.geojson",
-            "path_gpx" : "data/gpx/CAI/657.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "7837622",
-			"ref": "657"
-            },		
-"CAI n. 658":{
-            "path" : "data/geojson/CAI/658.geojson",
-            "path_gpx" : "data/gpx/CAI/658.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3755438",
-			"ref": "658"
-            },
-"CAI n. 658var":{
-            "path" : "data/geojson/CAI/658var.geojson",
-            "path_gpx" : "data/gpx/CAI/658var.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "9719777",
-			"ref": "658var"
-            },				
-"CAI n. 659":{
-            "path" : "data/geojson/CAI/659.geojson",
-            "path_gpx" : "data/gpx/CAI/659.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "4536856",
-			"ref": "659"
-            },	
-"CAI n. 660":{
-            "path" : "data/geojson/CAI/660.geojson",
-            "path_gpx" : "data/gpx/CAI/660.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3755396",
-			"ref": "660"
-            },	
-"CAI n. 662":{
-            "path" : "data/geojson/CAI/662.geojson",
-            "path_gpx" : "data/gpx/CAI/662.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "3654369",
-			"ref": "662"
-            },	
-"CAI n. 674":{
-            "path" : "data/geojson/CAI/674.geojson",
-            "path_gpx" : "data/gpx/CAI/674.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "5123952",
-			"ref": "674"
-            },
-"CAI n. 678":{
-            "path" : "data/geojson/CAI/678.geojson",
-            "path_gpx" : "data/gpx/CAI/678.gpx",				
-            "color" : "red",
-            "prof_alt" : "no",
-            "ref_rel": "6995130",
-			"ref": "678"
-            }	
-    }
-
+	"CAI n. 1":{
+				"path" : "data/geojson/CAI/1.geojson",
+				"path_gpx" : "data/gpx/CAI/1.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%28id%3A4536788%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 2":{
+				"path" : "data/geojson/CAI/2.geojson",
+				"path_gpx" : "data/gpx/CAI/2.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%28id%3A2980760%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},						
+	"CAI n. 3":{
+				"path" : "data/geojson/CAI/3.geojson",
+				"path_gpx" : "data/gpx/CAI/3.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%28id%3A1066071%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},								
+	"CAI n. 4":{
+				"path" : "data/geojson/CAI/4.geojson",
+				"path_gpx" : "data/gpx/CAI/4.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282980762%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 5":{
+				"path" : "data/geojson/CAI/5.geojson",
+				"path_gpx" : "data/gpx/CAI/5.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284536858%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},								
+	"CAI n. 6":{
+				"path" : "data/geojson/CAI/6.geojson",
+				"path_gpx" : "data/gpx/CAI/6.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282980763%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},	
+	"CAI n. 6bis":{
+				"path" : "data/geojson/CAI/6bis.geojson",
+				"path_gpx" : "data/gpx/CAI/6bis.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282980766%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 7":{
+				"path" : "data/geojson/CAI/7.geojson",
+				"path_gpx" : "data/gpx/CAI/7.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284536857%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},								
+				
+	"CAI n. 9":{
+				"path" : "data/geojson/CAI/9.geojson",
+				"path_gpx" : "data/gpx/CAI/9.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284536786%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 10":{
+				"path" : "data/geojson/CAI/10.geojson",
+				"path_gpx" : "data/gpx/CAI/10.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282980758%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},						
+	"CAI n. 11":{
+				"path" : "data/geojson/CAI/11.geojson",
+				"path_gpx" : "data/gpx/CAI/11.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282980758%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},							
+	"CAI n. 13":{
+				"path" : "data/geojson/CAI/13.geojson",
+				"path_gpx" : "data/gpx/CAI/13.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282980758%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 20":{
+				"path" : "data/geojson/CAI/20.geojson",
+				"path_gpx" : "data/gpx/CAI/20.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%287869013%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},	
+	"CAI n. 21-1":{
+				"path" : "data/geojson/CAI/21-1.geojson",
+				"path_gpx" : "data/gpx/CAI/21-1.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%287433740%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 30":{
+				"path" : "data/geojson/CAI/30.geojson",
+				"path_gpx" : "data/gpx/CAI/30.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284537674%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 31":{
+				"path" : "data/geojson/CAI/31.geojson",
+				"path_gpx" : "data/gpx/CAI/31.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283599897%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},						
+	"CAI n. 32":{
+				"path" : "data/geojson/CAI/32.geojson",
+				"path_gpx" : "data/gpx/CAI/32.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282289891%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 33":{
+				"path" : "data/geojson/CAI/33.geojson",
+				"path_gpx" : "data/gpx/CAI/33.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284786193%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 34":{
+				"path" : "data/geojson/CAI/34.geojson",
+				"path_gpx" : "data/gpx/CAI/34.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283599898%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 37":{
+				"path" : "data/geojson/CAI/37.geojson",
+				"path_gpx" : "data/gpx/CAI/37.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%286930662%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 38":{
+				"path" : "data/geojson/CAI/38.geojson",
+				"path_gpx" : "data/gpx/CAI/38.gpx",				
+				"color" : "red",
+				"prof_alt" : "yes",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%286922998%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 39":{
+				"path" : "data/geojson/CAI/39.geojson",
+				"path_gpx" : "data/gpx/CAI/39.gpx",				
+				"color" : "red",
+				"prof_alt" : "yes",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%286907846%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 40":{
+				"path" : "data/geojson/CAI/40.geojson",
+				"path_gpx" : "data/gpx/CAI/40.gpx",				
+				"color" : "red",
+				"prof_alt" : "yes",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%28id%3A7813436%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 41":{
+				"path" : "data/geojson/CAI/41.geojson",
+				"path_gpx" : "data/gpx/CAI/41.gpx",				
+				"color" : "red",
+				"prof_alt" : "yes",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%28id%3A7813435%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 51":{
+				"path" : "data/geojson/CAI/51.geojson",
+				"path_gpx" : "data/gpx/CAI/51.gpx",				
+				"color" : "red",
+				"prof_alt" : "yes",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283774905%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 52":{
+				"path" : "data/geojson/CAI/52.geojson",
+				"path_gpx" : "data/gpx/CAI/52.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%285163609%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 53":{
+				"path" : "data/geojson/CAI/53.geojson",
+				"path_gpx" : "data/gpx/CAI/53.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283720016%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 54":{
+				"path" : "data/geojson/CAI/54.geojson",
+				"path_gpx" : "data/gpx/CAI/54.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%285149380%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 55":{
+				"path" : "data/geojson/CAI/55.geojson",
+				"path_gpx" : "data/gpx/CAI/55.gpx",				
+				"color" : "red",
+				"prof_alt" : "yes",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284537756%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 57":{
+				"path" : "data/geojson/CAI/57.geojson",
+				"path_gpx" : "data/gpx/CAI/57.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%287496685%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 63":{
+				"path" : "data/geojson/CAI/63.geojson",
+				"path_gpx" : "data/gpx/CAI/63.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283219094%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 64":{
+				"path" : "data/geojson/CAI/64.geojson",
+				"path_gpx" : "data/gpx/CAI/64.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283720017%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 66":{
+				"path" : "data/geojson/CAI/66.geojson",
+				"path_gpx" : "data/gpx/CAI/66.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283755563%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 67":{
+				"path" : "data/geojson/CAI/67.geojson",
+				"path_gpx" : "data/gpx/CAI/67.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%287597151%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 71":{
+				"path" : "data/geojson/CAI/71.geojson",
+				"path_gpx" : "data/gpx/CAI/71.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284640622%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 71a":{
+				"path" : "data/geojson/CAI/71a.geojson",
+				"path_gpx" : "data/gpx/CAI/71a.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%286520229%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 73":{
+				"path" : "data/geojson/CAI/73.geojson",
+				"path_gpx" : "data/gpx/CAI/73.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284640620%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 76":{
+				"path" : "data/geojson/CAI/76.geojson",
+				"path_gpx" : "data/gpx/CAI/76.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%286995131%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 111":{
+				"path" : "data/geojson/CAI/111.geojson",
+				"path_gpx" : "data/gpx/CAI/111.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%289342558%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 113":{
+				"path" : "data/geojson/CAI/113.geojson",
+				"path_gpx" : "data/gpx/CAI/113.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%289342557%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 185":{
+				"path" : "data/geojson/CAI/185.geojson",
+				"path_gpx" : "data/gpx/CAI/185.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%287405942%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 186":{
+				"path" : "data/geojson/CAI/186.geojson",
+				"path_gpx" : "data/gpx/CAI/186.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283814649%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 205":{
+				"path" : "data/geojson/CAI/205.geojson",
+				"path_gpx" : "data/gpx/CAI/205.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%281676096%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},						
+	"CAI n. 231":{
+				"path" : "data/geojson/CAI/231.geojson",
+				"path_gpx" : "data/gpx/CAI/231.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%285900016%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 232":{
+				"path" : "data/geojson/CAI/232.geojson",
+				"path_gpx" : "data/gpx/CAI/232.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284679450%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},						
+	"CAI n. 233":{
+				"path" : "data/geojson/CAI/233.geojson",
+				"path_gpx" : "data/gpx/CAI/233.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284657494%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 234":{
+				"path" : "data/geojson/CAI/234.geojson",
+				"path_gpx" : "data/gpx/CAI/234.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%285635206%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 235":{
+				"path" : "data/geojson/CAI/235.geojson",
+				"path_gpx" : "data/gpx/CAI/235.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%288487508%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},						
+	"CAI n. 236":{
+				"path" : "data/geojson/CAI/236.geojson",
+				"path_gpx" : "data/gpx/CAI/236.gpx",		
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284727763%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 237":{
+				"path" : "data/geojson/CAI/237.geojson",
+				"path_gpx" : "data/gpx/CAI/237.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284837086%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 238":{
+				"path" : "data/geojson/CAI/238.geojson",
+				"path_gpx" : "data/gpx/CAI/238.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284729760%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},						
+	"CAI n. 240":{
+		"path" : "data/geojson/CAI/240.geojson",
+				"path_gpx" : "data/gpx/CAI/240.gpx",		
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284677295%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},							
+	"CAI n. 249":{
+		"path" : "data/geojson/CAI/249.geojson",
+				"path_gpx" : "data/gpx/CAI/249.gpx",		
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%288557256%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 250_1":{
+				"path" : "data/geojson/CAI/250_1.geojson",
+				"path_gpx" : "data/gpx/CAI/250_1.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%289333023%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 250_2":{
+				"path" : "data/geojson/CAI/250_2.geojson",
+				"path_gpx" : "data/gpx/CAI/250_2.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282469231%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 250_3":{
+				"path" : "data/geojson/CAI/250_3.geojson",
+				"path_gpx" : "data/gpx/CAI/250_3.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%289333022%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 250_4":{
+				"path" : "data/geojson/CAI/250_4.geojson",
+				"path_gpx" : "data/gpx/CAI/250_4.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284640575%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 251":{
+				"path" : "data/geojson/CAI/251.geojson",
+				"path_gpx" : "data/gpx/CAI/251.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283236810%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 252":{
+				"path" : "data/geojson/CAI/252.geojson",
+				"path_gpx" : "data/gpx/CAI/252.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283652489%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 253":{
+				"path" : "data/geojson/CAI/253.geojson",
+				"path_gpx" : "data/gpx/CAI/253.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282804920%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 254":{
+				"path" : "data/geojson/CAI/254.geojson",
+				"path_gpx" : "data/gpx/CAI/254.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283336501%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 255":{
+				"path" : "data/geojson/CAI/255.geojson",
+				"path_gpx" : "data/gpx/CAI/255.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283236598%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 256":{
+				"path" : "data/geojson/CAI/256.geojson",
+				"path_gpx" : "data/gpx/CAI/256.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282394712%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 257_1":{
+				"path" : "data/geojson/CAI/257_1.geojson",
+				"path_gpx" : "data/gpx/CAI/257_1.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283151926%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 257_2":{
+				"path" : "data/geojson/CAI/257_2.geojson",
+				"path_gpx" : "data/gpx/CAI/257_2.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%289343633%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 257_3":{
+				"path" : "data/geojson/CAI/257_3.geojson",
+				"path_gpx" : "data/gpx/CAI/257_3.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%289388300%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 261":{
+				"path" : "data/geojson/CAI/261.geojson",
+				"path_gpx" : "data/gpx/CAI/261.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%286159350%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 261a":{
+				"path" : "data/geojson/CAI/261a.geojson",
+				"path_gpx" : "data/gpx/CAI/261a.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%287168079%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 262":{
+				"path" : "data/geojson/CAI/262.geojson",
+				"path_gpx" : "data/gpx/CAI/262.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%289388301%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 262a":{
+				"path" : "data/geojson/CAI/262a.geojson",
+				"path_gpx" : "data/gpx/CAI/262a.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284602244%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 276":{
+				"path" : "data/geojson/CAI/276.geojson",
+				"path_gpx" : "data/gpx/CAI/276.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%288384682%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},				
+	"CAI n. 277":{
+				"path" : "data/geojson/CAI/277.geojson",
+				"path_gpx" : "data/gpx/CAI/277.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%288384699%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 279":{
+				"path" : "data/geojson/CAI/279.geojson",
+				"path_gpx" : "data/gpx/CAI/279.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282804910%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},						
+	"CAI n. 280":{
+				"path" : "data/geojson/CAI/280.geojson",
+				"path_gpx" : "data/gpx/CAI/280.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282804906%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 281":{
+				"path" : "data/geojson/CAI/281.geojson",
+				"path_gpx" : "data/gpx/CAI/281.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282804911%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},						
+	"CAI n. 282":{
+				"path" : "data/geojson/CAI/282.geojson",
+				"path_gpx" : "data/gpx/CAI/282.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282804907%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 283":{
+				"path" : "data/geojson/CAI/283.geojson",
+				"path_gpx" : "data/gpx/CAI/283.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%288384696%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 287_1":{
+				"path" : "data/geojson/CAI/287_1.geojson",
+				"path_gpx" : "data/gpx/CAI/287_1.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%289352948%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 287_2":{
+				"path" : "data/geojson/CAI/287_2.geojson",
+				"path_gpx" : "data/gpx/CAI/287_2.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283799681%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 288":{
+				"path" : "data/geojson/CAI/288.geojson",
+				"path_gpx" : "data/gpx/CAI/288.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283799682%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},								
+	"CAI n. 634":{
+				"path" : "data/geojson/CAI/634.geojson",
+				"path_gpx" : "data/gpx/CAI/634.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%282980764%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},							
+	"CAI n. 652":{
+				"path" : "data/geojson/CAI/652.geojson",
+				"path_gpx" : "data/gpx/CAI/652.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%287837923%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},						
+	"CAI n. 652a":{
+				"path" : "data/geojson/CAI/652a.geojson",
+				"path_gpx" : "data/gpx/CAI/652a.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%287837924%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 654":{
+				"path" : "data/geojson/CAI/654.geojson",
+				"path_gpx" : "data/gpx/CAI/654.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283774906%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 655_1":{
+				"path" : "data/geojson/CAI/655_1.geojson",
+				"path_gpx" : "data/gpx/CAI/655_1.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%289353400%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 655_2":{
+				"path" : "data/geojson/CAI/655_2.geojson",
+				"path_gpx" : "data/gpx/CAI/655_2.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283105223%29%3B%28%2E%5F%3B%3E%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 656":{
+				"path" : "data/geojson/CAI/656.geojson",
+				"path_gpx" : "data/gpx/CAI/656.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%287840367%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},					
+	"CAI n. 657":{
+				"path" : "data/geojson/CAI/657.geojson",
+				"path_gpx" : "data/gpx/CAI/657.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%287837622%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},		
+	"CAI n. 658":{
+				"path" : "data/geojson/CAI/658.geojson",
+				"path_gpx" : "data/gpx/CAI/658.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass.openstreetmap.fr/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283755438%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},		
+	"CAI n. 659":{
+				"path" : "data/geojson/CAI/659.geojson",
+				"path_gpx" : "data/gpx/CAI/659.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://z.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%284536856%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},	
+	"CAI n. 660":{
+				"path" : "data/geojson/CAI/660.geojson",
+				"path_gpx" : "data/gpx/CAI/660.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283755396%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},	
+	"CAI n. 662":{
+				"path" : "data/geojson/CAI/662.geojson",
+				"path_gpx" : "data/gpx/CAI/662.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%283654369%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},	
+	"CAI n. 674":{
+				"path" : "data/geojson/CAI/674.geojson",
+				"path_gpx" : "data/gpx/CAI/674.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%285123952%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				},
+	"CAI n. 678":{
+				"path" : "data/geojson/CAI/678.geojson",
+				"path_gpx" : "data/gpx/CAI/678.gpx",				
+				"color" : "red",
+				"prof_alt" : "no",
+				"query":"https://lz4.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Brelation%286995130%29%3B%28%2E_%3B>%3B%29%3Bout%3B%0A"
+				}					
+				
+}
