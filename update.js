@@ -10,13 +10,12 @@ async function GetDati() {
         await fetch(dati[sentiero].query)
         .then(res => res.json())
         .then(async json => {
+            let geojson = osmtogeojson(json);
             fs.writeFile("./dati/" + sentiero.replace(".","") + ".json", JSON.stringify(json), (err) => console.log("scaricato " + sentiero));
-            fs.writeFile("./geojson/" + sentiero.replace(".","") + ".geojson", JSON.stringify(osmtogeojson(json)), (err) => console.log("convertito geojson " + sentiero));
-            fs.writeFile("./gpx/" + sentiero.replace(".","") + ".gpx", JSON.stringify(togpx(json)), (err) => console.log("convertito gpx " + sentiero));
+            fs.writeFile("./geojson/" + sentiero.replace(".","") + ".geojson", JSON.stringify(geojson), (err) => console.log("convertito geojson " + sentiero));
+            fs.writeFile("./gpx/" + sentiero.replace(".","") + ".gpx", JSON.stringify(togpx(geojson)), (err) => console.log("convertito gpx " + sentiero));
         });
     }
 }
 
 GetDati();
-
-//echo ($file | sed "s/json/geojson/g")
