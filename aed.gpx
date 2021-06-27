@@ -351,6 +351,7 @@ addr:city=San Francesco
 addr:country=IT
 addr:street=Via San Francesco
 emergency=defibrillator
+indoor=no
 opening_hours=24/7
 wheelchair=yes
 id=node/6652013830</desc></wpt><wpt lat="45.3948603" lon="10.9140465"><name>Chiesa Dossobuono</name><desc>access=yes

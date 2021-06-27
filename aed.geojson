@@ -1002,6 +1002,7 @@
     "addr:country": "IT",
     "addr:street": "Via San Francesco",
     "emergency": "defibrillator",
+    "indoor": "no",
     "opening_hours": "24/7",
     "wheelchair": "yes",
     "id": "node/6652013830"
