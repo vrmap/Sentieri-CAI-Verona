@@ -32,7 +32,6 @@ addr:postcode=37021
 addr:street=Piazza della Chiesa
 defibrillator:location=L'apparato è installato nel tunnel che collega Piazza della Chiesa a Piazza Guglielmo Marconi
 emergency=defibrillator
-indoor=no
 name=Municipio Bosco Chiesanuova
 opening_hours=24/7
 operator=Comune Bosco Chiesanuova
@@ -80,8 +79,18 @@ emergency=defibrillator
 indoor=yes
 name=Centro Anziani Povegliano Veronese
 operator=Comune di Povegliano Veronese
-id=node/4296587220</desc></wpt><wpt lat="45.4386301" lon="10.9453037"><name>node/4469411485</name><desc>emergency=defibrillator
+id=node/4296587220</desc></wpt><wpt lat="45.4386301" lon="10.9453037"><name>Oratorio XVI secolo</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=13
+addr:postcode=37139
+addr:street=Via Beniamino Romagnoli
+emergency=defibrillator
 indoor=no
+name=Oratorio XVI secolo
+opening_hours=24/7
+outdoor=yes
+wheelchair=yes
 id=node/4469411485</desc></wpt><wpt lat="45.4330404" lon="10.8899887"><name>Anagrafe di Lugagnano</name><desc>access=yes
 addr:city=Lugagnano
 addr:country=IT
@@ -100,14 +109,24 @@ addr:country=IT
 addr:street=Via Perare
 emergency=defibrillator
 name=Campo sportivo
-id=node/5088993115</desc></wpt><wpt lat="45.4415985" lon="10.9805015"><name>node/5142809554</name><desc>defibrillator:location=All'esterno, accanto all'ingresso della farmacia
+id=node/5088993115</desc></wpt><wpt lat="45.4415985" lon="10.9805015"><name>Farmacia San Zeno</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=1
+addr:postcode=37123
+addr:street=Piazza Corrubbio
+defibrillator:location=All'esterno, accanto all'ingresso della farmacia
 defibrillator:location:en=Externally, beside the pharmacy entrance
 emergency=defibrillator
 indoor=no
+name=Farmacia San Zeno
+opening_hours=24/7
+wheelchair=yes
 id=node/5142809554</desc></wpt><wpt lat="45.4169902" lon="10.8960947"><name>Biblioteca di Caselle di Sommacampagna</name><desc>access=yes
 addr:city=Caselle di Sommacampagna
 addr:country=IT
 addr:housenumber=49
+addr:postcode=37066
 addr:street=Via Scuole
 defibrillator:location=L'apparato è installato presso l'ingresso della Boblioteca Comunale.
 emergency=defibrillator
@@ -118,10 +137,17 @@ id=node/5214694804</desc></wpt><wpt lat="45.4120515" lon="10.9198263"><name>Merc
 emergency=defibrillator
 indoor=yes
 name=Mercato Ortofrutticolo
-id=node/5221623457</desc></wpt><wpt lat="45.4581577" lon="10.947005"><name>node/5309066565</name><desc>access=yes
-defibrillator:location=a muro
+id=node/5221623457</desc></wpt><wpt lat="45.458143" lon="10.9470489"><name>Farmacia Comunale Chievo</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=94
+addr:postcode=37139
+addr:street=Via Aeroporto Angelo Berardi
+defibrillator:location=L'apparato è installato a sinistra dell'ingresso della farmacia
 emergency=defibrillator
 indoor=no
+name=Farmacia Comunale Chievo
+opening_hours=24/7
 wheelchair=yes
 id=node/5309066565</desc></wpt><wpt lat="45.4293967" lon="10.9831731"><name>Stazione Porta Nuova</name><desc>access=yes
 addr:city=Verona
