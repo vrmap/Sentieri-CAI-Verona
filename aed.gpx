@@ -106,6 +106,8 @@ outdoor=yes
 wheelchair=yes
 id=node/4824981289</desc></wpt><wpt lat="45.6276071" lon="10.7217782"><name>Campo sportivo</name><desc>addr:city=San Zeno di Montagna
 addr:country=IT
+addr:housenumber=1
+addr:postcode=37010
 addr:street=Via Perare
 emergency=defibrillator
 name=Campo sportivo
@@ -134,6 +136,10 @@ name=Biblioteca di Caselle di Sommacampagna
 opening_hours=24/7
 wheelchair=yes
 id=node/5214694804</desc></wpt><wpt lat="45.4120515" lon="10.9198263"><name>Mercato Ortofrutticolo</name><desc>access=permissive
+addr:city=Verona
+addr:country=IT
+addr:postcode=37137
+addr:street=Via Sommacampagna
 emergency=defibrillator
 indoor=yes
 name=Mercato Ortofrutticolo
@@ -164,6 +170,7 @@ id=node/5370532799</desc></wpt><wpt lat="45.4144376" lon="10.9598467"><name>Cent
 addr:city=Verona
 addr:country=IT
 addr:housenumber=28
+addr:postcode=37136
 addr:street=Via Tanaro
 defibrillator:location=Installato a parete all'interno della piscina coperta, entrare e girare subito a sinistra
 emergency=defibrillator
@@ -177,11 +184,18 @@ addr:street=Via della Maddalena
 emergency=defibrillator
 indoor=yes
 name=Palazzetto dello Sport
-id=node/5596680060</desc></wpt><wpt lat="45.3734097" lon="10.9376058"><name>Campo sportivo La Rizza</name><desc>description=Installato presso spogliatoio arbitri
+id=node/5596680060</desc></wpt><wpt lat="45.3734097" lon="10.9376058"><name>Campo sportivo La Rizza</name><desc>addr:city=La Rizza
+addr:country=IT
+addr:street=Via Giuseppe Morandini
+description=L'apparato è installato presso lo spogliatoio arbitri
 emergency=defibrillator
 indoor=yes
 name=Campo sportivo La Rizza
-id=node/5596680061</desc></wpt><wpt lat="45.2972136" lon="10.897946"><name>node/5783302153</name><desc>emergency=defibrillator
+id=node/5596680061</desc></wpt><wpt lat="45.2972136" lon="10.897946"><name>Area di servizio Povegliano Est</name><desc>addr:city=Nogarole Rocca
+addr:country=IT
+addr:postcode=37060
+emergency=defibrillator
+name=Area di servizio Povegliano Est
 id=node/5783302153</desc></wpt><wpt lat="45.5991816" lon="11.0307035"><name>Chiesa di Corbiolo</name><desc>access=yes
 addr:city=Corbiolo
 addr:country=IT
@@ -207,6 +221,9 @@ opening_hours=24/7
 operator=Comune Bosco Chiesanuova
 outdoor=yes
 id=node/5860589735</desc></wpt><wpt lat="45.5955339" lon="11.0046697"><name>Scuola di Lughezzano</name><desc>access=yes
+addr:city=Lughezzano
+addr:country=IT
+addr:postcode=37021
 emergency=defibrillator
 indoor=no
 name=Scuola di Lughezzano
@@ -248,10 +265,14 @@ name=Municipio di Bussolengo
 opening_hours=24/7
 outdoor=yes
 id=node/6310659739</desc></wpt><wpt lat="45.4423974" lon="10.7496822"><name>Campi sportivi polivalenti comunali</name><desc>access=yes
+addr:city=Castelnuovo del Garda
+addr:country=IT
+addr:postcode=37014
+addr:street=Via Oregolo
 defibrillator:location=installato di fianco alla dx della porta di ingresso del ristorante
 emergency=defibrillator
 name=Campi sportivi polivalenti comunali
-opening_hours=08:00-00:00
+opening_hours=Mo-Su 08:00-24:00
 wheelchair=yes
 wikimedia_commons=File:Defibrillator at playgrounds in Castelnuovo (Verona, ITALY).jpg
 id=node/6338479614</desc></wpt><wpt lat="45.4572529" lon="10.7091042"><name>Gardaland Aladino</name><desc>access=yes
@@ -302,16 +323,40 @@ indoor=no
 name=Delegazione Comunale
 opening_hours=24/7
 outdoor=yes
-id=node/6442096297</desc></wpt><wpt lat="45.3945459" lon="10.9148417"><name>node/6448444740</name><desc>emergency=defibrillator
+id=node/6442096297</desc></wpt><wpt lat="45.3945459" lon="10.9148417"><name>Circolo NOI</name><desc>emergency=defibrillator
 indoor=yes
+name=Circolo NOI
 wheelchair=no
-id=node/6448444740</desc></wpt><wpt lat="45.7692131" lon="10.8644427"><name>node/6521563338</name><desc>emergency=defibrillator
-id=node/6521563338</desc></wpt><wpt lat="45.7259373" lon="10.781119"><name>node/6521583530</name><desc>emergency=defibrillator
+id=node/6448444740</desc></wpt><wpt lat="45.7692131" lon="10.8644427"><name>Stazione arrivo funivia Monte Baldo</name><desc>emergency=defibrillator
+name=Stazione arrivo funivia Monte Baldo
+id=node/6521563338</desc></wpt><wpt lat="45.7259373" lon="10.781119"><name>Supermercato Despar</name><desc>access=yes
+addr:city=Assenza di Brenzone
+addr:country=IT
+addr:housenumber=38
+addr:postcode=37010
+addr:street=Via Gardesana
+emergency=defibrillator
 indoor=no
-id=node/6521583530</desc></wpt><wpt lat="45.7661537" lon="10.8133141"><name>node/6521588642</name><desc>emergency=defibrillator
+name=Supermercato Despar
+opening_hours=24/7
+wheelchair=yes
+id=node/6521583530</desc></wpt><wpt lat="45.7661537" lon="10.8133141"><name>Stazione partenza funivia Monte Baldo</name><desc>addr:city=Malcesine
+addr:country=IT
+addr:housenumber=12
+addr:postcode=37018
+addr:street=Via Navene Vecchia
+emergency=defibrillator
 indoor=yes
-id=node/6521588642</desc></wpt><wpt lat="45.7082948" lon="10.7670811"><name>node/6521956762</name><desc>emergency=defibrillator
+name=Stazione partenza funivia Monte Baldo
+id=node/6521588642</desc></wpt><wpt lat="45.7082948" lon="10.7670811"><name>node/6521956762</name><desc>access=yes
+addr:city=Brenzone
+addr:country=IT
+addr:housenumber=15
+addr:postcode=37010
+addr:street=Via Venti Settembre
+emergency=defibrillator
 indoor=no
+opening_hours=24/7
 id=node/6521956762</desc></wpt><wpt lat="45.6110708" lon="10.7018964"><name>Via Oliveti</name><desc>access=yes
 addr:city=Albisano
 addr:country=IT
@@ -322,8 +367,9 @@ indoor=no
 name=Via Oliveti
 opening_hours=24/7
 wheelchair=yes
-id=node/6526620187</desc></wpt><wpt lat="45.7048489" lon="10.8303811"><name>node/6568024368</name><desc>emergency=defibrillator
+id=node/6526620187</desc></wpt><wpt lat="45.7048489" lon="10.8303811"><name>Rifugio Telegrafo</name><desc>emergency=defibrillator
 indoor=yes
+name=Rifugio Telegrafo
 id=node/6568024368</desc></wpt><wpt lat="45.5636639" lon="11.1567101"><name>Piazza Mercato</name><desc>access=yes
 addr:city=Badia Calavena
 addr:country=IT
@@ -333,7 +379,11 @@ emergency=defibrillator
 name=Piazza Mercato
 opening_hours=24/7
 wheelchair=yes
-id=node/6580022573</desc></wpt><wpt lat="45.5205301" lon="11.1641552"><name>Chiesa della Disciplina</name><desc>defibrillator:location=L'apparato è installato sulla desta dell'ingresso della Chiesa della Disciplina
+id=node/6580022573</desc></wpt><wpt lat="45.5205301" lon="11.1641552"><name>Chiesa della Disciplina</name><desc>addr:city=Tregnago
+addr:country=IT
+addr:postcode=37039
+addr:street=Via dei Bandi
+defibrillator:location=L'apparato è installato sulla desta dell'ingresso della Chiesa della Disciplina
 emergency=defibrillator
 name=Chiesa della Disciplina
 opening_hours=24/7
@@ -401,7 +451,12 @@ defibrillator:location=L'apparato è intallato nell'ingresso vicino alle casse
 emergency=defibrillator
 indoor=yes
 name=Piscine Santini
-id=node/6700331458</desc></wpt><wpt lat="45.4375786" lon="11.003965"><name>Scuola elementare Massalongo</name><desc>emergency=defibrillator
+id=node/6700331458</desc></wpt><wpt lat="45.4375786" lon="11.003965"><name>Scuola elementare Massalongo</name><desc>addr:city=Verona
+addr:country=IT
+addr:housenumber=14
+addr:postcode=37129
+addr:street=Via dell'Artigliere
+emergency=defibrillator
 indoor=yes
 name=Scuola elementare Massalongo
 id=node/6761560007</desc></wpt><wpt lat="45.4206457" lon="11.2484577"><name>Unicredit</name><desc>addr:city=Soave
@@ -414,6 +469,10 @@ indoor=no
 name=Unicredit
 opening_hours=24/7
 id=node/6762272810</desc></wpt><wpt lat="45.3978755" lon="11.2681881"><name>Scuola Elementare Gino Sandri</name><desc>access=customers
+addr:city=San Bonifacio
+addr:country=IT
+addr:postcode=37047
+addr:street=Via Roma
 emergency=defibrillator
 indoor=yes
 name=Scuola Elementare Gino Sandri
@@ -441,8 +500,9 @@ addr:street=Via Brigate Alpine
 emergency=defibrillator
 indoor=yes
 name=Scuola Primaria Vittorio Locchi
-id=node/6989111487</desc></wpt><wpt lat="45.6931091" lon="10.912182"><name>node/7024031974</name><desc>access=yes
+id=node/6989111487</desc></wpt><wpt lat="45.6931091" lon="10.912182"><name>Area di servizio Adige Ovest</name><desc>access=yes
 emergency=defibrillator
+name=Area di servizio Adige Ovest
 opening_hours=24/7
 id=node/7024031974</desc></wpt><wpt lat="45.3950203" lon="11.2682484"><name>Cinema Teatro Centrale</name><desc>access=yes
 addr:city=San Bonifacio
@@ -534,7 +594,12 @@ addr:street=Lungo Lago Preite
 emergency=defibrillator
 indoor=yes
 name=Centro Nautico Bardolino
-id=node/7127710791</desc></wpt><wpt lat="45.4356734" lon="10.993383"><name>Scuole alle Stimmate</name><desc>emergency=defibrillator
+id=node/7127710791</desc></wpt><wpt lat="45.4356734" lon="10.993383"><name>Scuole alle Stimmate</name><desc>addr:city=Verona
+addr:country=IT
+addr:housenumber=1
+addr:postcode=37122
+addr:street=Via Carlo Montanari
+emergency=defibrillator
 indoor=yes
 name=Scuole alle Stimmate
 id=node/7144865890</desc></wpt><wpt lat="45.3950184" lon="11.0158405"><name>Decathlon</name><desc>access=customers
@@ -547,7 +612,9 @@ emergency=defibrillator
 indoor=yes
 name=Decathlon
 opening_hours=Mo-Sa 09:00-21:00; Su 09:30-20:00
-id=node/7168646404</desc></wpt><wpt lat="45.3515383" lon="10.9977114"><name>node/7175470046</name><desc>addr:country=IT
+id=node/7168646404</desc></wpt><wpt lat="45.3515383" lon="10.9977114"><name>node/7175470046</name><desc>addr:city=Buttapietra
+addr:country=IT
+addr:postcode=37135
 addr:street=Via Dolomiti
 emergency=defibrillator
 id=node/7175470046</desc></wpt><wpt lat="45.3422553" lon="10.884732"><name>node/7175470047</name><desc>addr:city=Povegliano Veronese
@@ -587,7 +654,8 @@ name=Decathlon
 opening_hours=Mo-Su 09:00-20:30
 wheelchair=yes
 wikimedia_commons=File:Defibrillatore Decathlon Dossobuono.jpg
-id=node/7274304327</desc></wpt><wpt lat="45.6531551" lon="11.1226326"><name>Osteria Ljetzan</name><desc>defibrillator:location=L'apparato è installato a destra dell'ingresso dell'Osteria Ljetzan
+id=node/7274304327</desc></wpt><wpt lat="45.6531551" lon="11.1226326"><name>Osteria Ljetzan</name><desc>addr:city=Giazza
+defibrillator:location=L'apparato è installato a destra dell'ingresso dell'Osteria Ljetzan
 emergency=defibrillator
 name=Osteria Ljetzan
 opening_hours=24/7
@@ -619,11 +687,17 @@ indoor=no
 name=Farmacia Mainieri
 opening_hours=24/7
 wikimedia_commons=File:Defibrillatore Farmacia Cerro - Verona.jpg
-id=node/7820434020</desc></wpt><wpt lat="45.4199758" lon="10.968722"><name>Oratorio Golosine</name><desc>emergency=defibrillator
+id=node/7820434020</desc></wpt><wpt lat="45.4199758" lon="10.968722"><name>Oratorio Golosine</name><desc>addr:city=Verona
+addr:country=IT
+addr:postcode=37136
+emergency=defibrillator
 indoor=yes
 name=Oratorio Golosine
-id=node/7951758410</desc></wpt><wpt lat="45.417044" lon="10.9273112"><name>Dae</name><desc>emergency=defibrillator
-name=Dae
+id=node/7951758410</desc></wpt><wpt lat="45.417044" lon="10.9273112"><name>Quadrante Servizi</name><desc>addr:city=Verona
+addr:country=IT
+addr:street=Via Sommacampagna
+emergency=defibrillator
+name=Quadrante Servizi
 id=node/8037314953</desc></wpt><wpt lat="45.5678927" lon="10.9919581"><name>Campo sportivo di Lugo</name><desc>addr:city=Lugo
 addr:country=IT
 addr:postcode=37023
