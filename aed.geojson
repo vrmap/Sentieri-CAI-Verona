@@ -85,6 +85,7 @@
     "opening_hours": "24/7",
     "operator": "Comune Bosco Chiesanuova",
     "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Bosco_Chiesanuova.jpg",
     "id": "node/4047417816"
   },
   "geometry": {
@@ -310,6 +311,7 @@
     "name": "Biblioteca di Caselle di Sommacampagna",
     "opening_hours": "24/7",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_Caselle_di_Sommacampagna.jpg",
     "id": "node/5214694804"
   },
   "geometry": {
@@ -621,6 +623,7 @@
     "name": "Municipio di Bussolengo",
     "opening_hours": "24/7",
     "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Bussolengo.jpg",
     "id": "node/6310659739"
   },
   "geometry": {
@@ -752,6 +755,7 @@
     "name": "Farmacia Comunale",
     "opening_hours": "24/7",
     "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Farmacia_Dossobuono.jpg",
     "id": "node/6442096296"
   },
   "geometry": {
@@ -778,6 +782,7 @@
     "name": "Delegazione Comunale",
     "opening_hours": "24/7",
     "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Delegazione_Comunale_Dossobuono.jpg",
     "id": "node/6442096297"
   },
   "geometry": {

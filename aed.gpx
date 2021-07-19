@@ -36,6 +36,7 @@ name=Municipio Bosco Chiesanuova
 opening_hours=24/7
 operator=Comune Bosco Chiesanuova
 outdoor=yes
+wikimedia_commons=File:DAE_Bosco_Chiesanuova.jpg
 id=node/4047417816</desc></wpt><wpt lat="45.3468939" lon="10.8808229"><name>La quercia di Abramo</name><desc>access=yes
 addr:city=Povegliano Veronese
 addr:country=IT
@@ -135,6 +136,7 @@ emergency=defibrillator
 name=Biblioteca di Caselle di Sommacampagna
 opening_hours=24/7
 wheelchair=yes
+wikimedia_commons=File:DAE_Caselle_di_Sommacampagna.jpg
 id=node/5214694804</desc></wpt><wpt lat="45.4120515" lon="10.9198263"><name>Mercato Ortofrutticolo</name><desc>access=permissive
 addr:city=Verona
 addr:country=IT
@@ -264,6 +266,7 @@ indoor=no
 name=Municipio di Bussolengo
 opening_hours=24/7
 outdoor=yes
+wikimedia_commons=File:DAE_Bussolengo.jpg
 id=node/6310659739</desc></wpt><wpt lat="45.4423974" lon="10.7496822"><name>Campi sportivi polivalenti comunali</name><desc>access=yes
 addr:city=Castelnuovo del Garda
 addr:country=IT
@@ -311,6 +314,7 @@ indoor=no
 name=Farmacia Comunale
 opening_hours=24/7
 outdoor=yes
+wikimedia_commons=File:DAE_Farmacia_Dossobuono.jpg
 id=node/6442096296</desc></wpt><wpt lat="45.3947582" lon="10.9133447"><name>Delegazione Comunale</name><desc>access=yes
 addr:city=Dossobuono
 addr:country=IT
@@ -323,6 +327,7 @@ indoor=no
 name=Delegazione Comunale
 opening_hours=24/7
 outdoor=yes
+wikimedia_commons=File:DAE_Delegazione_Comunale_Dossobuono.jpg
 id=node/6442096297</desc></wpt><wpt lat="45.3945459" lon="10.9148417"><name>Circolo NOI</name><desc>emergency=defibrillator
 indoor=yes
 name=Circolo NOI
