@@ -409,6 +409,7 @@ defibrillator:location=L'apparato è installato all' interno guardiola AIA ingre
 emergency=defibrillator
 indoor=yes
 name=Guardiola ingresso AIA
+wikimedia_commons=File:DAE_presso_AIA_Verona.jpg
 id=node/6580022576</desc></wpt><wpt lat="45.4125283" lon="11.0935843"><name>Corti Venete</name><desc>addr:city=San Martino Buonalbergo
 addr:country=IT
 addr:housenumber=1
@@ -417,6 +418,7 @@ addr:street=Viale del Commercio
 emergency=defibrillator
 indoor=yes
 name=Corti Venete
+wikimedia_commons=File:DAE_presso_Corti_Venete.jpg
 id=node/6580022577</desc></wpt><wpt lat="45.6955255" lon="11.1188534"><name>Rifugio Revolto</name><desc>addr:city=Selva di Progno
 addr:country=IT
 addr:housenumber=1
@@ -773,6 +775,7 @@ defibrillator:location=L'apparato è installato a sinistra dell'ingresso della F
 emergency=defibrillator
 name=Farmacia Martari
 opening_hours=24/7
+wikimedia_commons=File:DAE_Farmacia_Martari_Verona.jpg
 id=node/8411887316</desc></wpt><wpt lat="45.3364837" lon="10.9234337"><name>Sala Civica Alcide de Gasperi</name><desc>access=yes
 addr:city=Isolalta
 addr:country=IT
