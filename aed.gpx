@@ -8,6 +8,7 @@ emergency=defibrillator
 name=Farmacia Comunale Grattacielo
 opening_hours=24/7
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_farmacia_comunale_Grattacielo_Verona.jpg
 id=node/1521824171</desc></wpt><wpt lat="45.3467424" lon="10.881371"><name>Circolo Noi Il Gabbiano</name><desc>access=private
 addr:city=Povegliano Veronese
 addr:country=IT
@@ -100,11 +101,11 @@ addr:postcode=37060
 addr:street=Via 26 Aprile
 defibrillator:location=L'apparato è installato a destra dell'ingresso della sede staccata dell'Anagrafe di Lugagnano
 emergency=defibrillator
-mapillary=EhP5TVHoJQdRS7Lc_17PmQ
 name=Anagrafe di Lugagnano
 opening_hours=24/7
 outdoor=yes
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_Ufficio_Anagrafe_Lugagnano.jpg
 id=node/4824981289</desc></wpt><wpt lat="45.6276071" lon="10.7217782"><name>Campo sportivo</name><desc>addr:city=San Zeno di Montagna
 addr:country=IT
 addr:housenumber=1
@@ -243,6 +244,7 @@ indoor=no
 name=Farmacia Centrale
 opening_hours=24/7
 outdoor=yes
+wikimedia_commons=File:DAE_presso_Farmacia_Centrale_Verona.jpg
 id=node/6229421216</desc></wpt><wpt lat="45.421052" lon="10.9765082"><name>La Mia Farmacia</name><desc>access=yes
 addr:city=Verona
 addr:country=IT
@@ -429,14 +431,18 @@ defibrillator:location=L'apparato è installato all'interno dietro il bancone.
 emergency=defibrillator
 indoor=yes
 name=Rifugio Revolto
-id=node/6636558007</desc></wpt><wpt lat="45.6259484" lon="11.0717495"><name>node/6652013830</name><desc>access=yes
+id=node/6636558007</desc></wpt><wpt lat="45.6259484" lon="11.0717495"><name>Ambulatorio medico</name><desc>access=yes
 addr:city=San Francesco
 addr:country=IT
 addr:street=Via San Francesco
+defibrillator:location=L'apparato è installato a destra dell'ingresso dell'ambulatorio medico
 emergency=defibrillator
 indoor=no
+name=Ambulatorio medico
 opening_hours=24/7
+outdoor=yes
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_San_Francesco.jpg
 id=node/6652013830</desc></wpt><wpt lat="45.3948603" lon="10.9140465"><name>Chiesa Dossobuono</name><desc>access=yes
 addr:city=Dossobuono
 addr:country=IT
@@ -518,11 +524,11 @@ addr:postcode=37047
 addr:street=Via San Giovanni Bosco
 defibrillator:location=L'apparato è installato sul muro esterno del cinema teatro.
 emergency=defibrillator
-mapillary=qhg-eYh3FGWwYMzIqUTZjA
 name=Cinema Teatro Centrale
 opening_hours=24/7
 outdoor=yes
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_Circolo_NOI_San_Bonifacio.jpg
 id=node/7037808275</desc></wpt><wpt lat="45.3955694" lon="11.27052"><name>Uffici comunali</name><desc>access=yes
 addr:city=San Bonifacio
 addr:country=IT
@@ -530,11 +536,11 @@ addr:postcode=37047
 addr:street=Piazza della Costituzione
 defibrillator:location=L'apparato è installato a sinistra dell'ingresso degli uffici comunali.
 emergency=defibrillator
-mapillary=msS6_BqPE_xzbD8KO6cWjw
 name=Uffici comunali
 opening_hours=24/7
 outdoor=yes
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_Municipio_San_Bonifacio.jpg
 id=node/7037808276</desc></wpt><wpt lat="45.3509813" lon="10.8460208"><name>Municipio Villafranca di Verona</name><desc>access=yes
 addr:city=Villafranca di Verona
 addr:country=IT
@@ -560,6 +566,7 @@ name=Bricoman
 opening_hours=Mo-Sa 07:00-20:30; Su 08:30-20:00
 operator=Bricoman
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_Bricoman_Verona.jpg
 id=node/7048465956</desc></wpt><wpt lat="45.3580956" lon="10.83928"><name>Istituto Bolisani</name><desc>addr:city=Villafranca di Verona
 addr:country=IT
 addr:housenumber=18
@@ -619,6 +626,7 @@ emergency=defibrillator
 indoor=yes
 name=Decathlon
 opening_hours=Mo-Sa 09:00-21:00; Su 09:30-20:00
+wikimedia_commons=File:DAE_presso_Decathlon_San_Giovanni_Lupatoto.jpg
 id=node/7168646404</desc></wpt><wpt lat="45.3515383" lon="10.9977114"><name>node/7175470046</name><desc>addr:city=Buttapietra
 addr:country=IT
 addr:postcode=37135
@@ -649,6 +657,7 @@ defibrillator:location=L'apparato è installato a sinistra dell'Ufficio informaz
 emergency=defibrillator
 name=Ufficio informazioni IAT
 opening_hours=24/7
+wikimedia_commons=File:DAE_presso_Ufficio_informazioni_Valeggio_sul_Mincio.jpg
 id=node/7204350430</desc></wpt><wpt lat="45.3907126" lon="10.9029168"><name>Decathlon</name><desc>access=customers
 addr:city=Dossobuono
 addr:country=IT
@@ -662,10 +671,15 @@ opening_hours=Mo-Su 09:00-20:30
 wheelchair=yes
 wikimedia_commons=File:Defibrillatore Decathlon Dossobuono.jpg
 id=node/7274304327</desc></wpt><wpt lat="45.6531551" lon="11.1226326"><name>Osteria Ljetzan</name><desc>addr:city=Giazza
+addr:country=IT
+addr:housenumber=6
+addr:street=Piazza don Mrcante
 defibrillator:location=L'apparato è installato a destra dell'ingresso dell'Osteria Ljetzan
 emergency=defibrillator
 name=Osteria Ljetzan
 opening_hours=24/7
+outdoor=yes
+wikimedia_commons=File:DAE_presso_Osteria_Ljetzan_Giazza.jpg
 id=node/7648382704</desc></wpt><wpt lat="45.6891915" lon="10.8518234"><name>Ristorante Albergo Al Cacciatore</name><desc>access=yes
 addr:city=Ferrara di Monte Baldo
 addr:country=IT
@@ -798,4 +812,29 @@ emergency=defibrillator
 name=Percorso della Salute
 opening_hours=24/7
 wheelchair=yes
-id=node/8594839714</desc></wpt></gpx>
+id=node/8594839714</desc></wpt><wpt lat="45.4407141" lon="10.9947476"><name>Farmacia Due Campane</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=52
+addr:postcode=37121
+addr:street=Via Giuseppe Mazzini
+defibrillator:location=L'apparato è installato a destra dell'ingresso della farmacia
+emergency=defibrillator
+name=Farmacia Due Campane
+opening_hours=24/7
+wheelchair=yes
+wikimedia_commons=File:DAE_presso_Farmacia_due_Campane_Verona.jpg
+id=node/8951268034</desc></wpt><wpt lat="45.5811685" lon="11.0414743"><name>Pizzeria da Fabio</name><desc>access=yes
+addr:city=Bosco Chiesanuova
+addr:country=IT
+addr:housenumber=31
+addr:postcode=37021
+addr:street=Via Marcello Carcereri
+defibrillator:location=L'apparato è installato sotto la tettoia della pizzeria
+emergency=defibrillator
+name=Pizzeria da Fabio
+opening_hours=24/7
+outdoor=yes
+wheelchair=yes
+wikimedia_commons=File:DAE_Pizzeria_da_Fabio_Cerro_Veronese.jpg
+id=node/8951268035</desc></wpt></gpx>

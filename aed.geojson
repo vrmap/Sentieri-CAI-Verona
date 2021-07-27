@@ -15,6 +15,7 @@
     "name": "Farmacia Comunale Grattacielo",
     "opening_hours": "24/7",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_farmacia_comunale_Grattacielo_Verona.jpg",
     "id": "node/1521824171"
   },
   "geometry": {
@@ -233,11 +234,11 @@
     "addr:street": "Via 26 Aprile",
     "defibrillator:location": "L'apparato è installato a destra dell'ingresso della sede staccata dell'Anagrafe di Lugagnano",
     "emergency": "defibrillator",
-    "mapillary": "EhP5TVHoJQdRS7Lc_17PmQ",
     "name": "Anagrafe di Lugagnano",
     "opening_hours": "24/7",
     "outdoor": "yes",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Ufficio_Anagrafe_Lugagnano.jpg",
     "id": "node/4824981289"
   },
   "geometry": {
@@ -572,6 +573,7 @@
     "name": "Farmacia Centrale",
     "opening_hours": "24/7",
     "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_Centrale_Verona.jpg",
     "id": "node/6229421216"
   },
   "geometry": {
@@ -1084,10 +1086,14 @@
     "addr:city": "San Francesco",
     "addr:country": "IT",
     "addr:street": "Via San Francesco",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso dell'ambulatorio medico",
     "emergency": "defibrillator",
     "indoor": "no",
+    "name": "Ambulatorio medico",
     "opening_hours": "24/7",
+    "outdoor": "yes",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_San_Francesco.jpg",
     "id": "node/6652013830"
   },
   "geometry": {
@@ -1309,11 +1315,11 @@
     "addr:street": "Via San Giovanni Bosco",
     "defibrillator:location": "L'apparato è installato sul muro esterno del cinema teatro.",
     "emergency": "defibrillator",
-    "mapillary": "qhg-eYh3FGWwYMzIqUTZjA",
     "name": "Cinema Teatro Centrale",
     "opening_hours": "24/7",
     "outdoor": "yes",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Circolo_NOI_San_Bonifacio.jpg",
     "id": "node/7037808275"
   },
   "geometry": {
@@ -1335,11 +1341,11 @@
     "addr:street": "Piazza della Costituzione",
     "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso degli uffici comunali.",
     "emergency": "defibrillator",
-    "mapillary": "msS6_BqPE_xzbD8KO6cWjw",
     "name": "Uffici comunali",
     "opening_hours": "24/7",
     "outdoor": "yes",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Municipio_San_Bonifacio.jpg",
     "id": "node/7037808276"
   },
   "geometry": {
@@ -1393,6 +1399,7 @@
     "opening_hours": "Mo-Sa 07:00-20:30; Su 08:30-20:00",
     "operator": "Bricoman",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Bricoman_Verona.jpg",
     "id": "node/7048465956"
   },
   "geometry": {
@@ -1550,6 +1557,7 @@
     "indoor": "yes",
     "name": "Decathlon",
     "opening_hours": "Mo-Sa 09:00-21:00; Su 09:30-20:00",
+    "wikimedia_commons": "File:DAE_presso_Decathlon_San_Giovanni_Lupatoto.jpg",
     "id": "node/7168646404"
   },
   "geometry": {
@@ -1636,6 +1644,7 @@
     "emergency": "defibrillator",
     "name": "Ufficio informazioni IAT",
     "opening_hours": "24/7",
+    "wikimedia_commons": "File:DAE_presso_Ufficio_informazioni_Valeggio_sul_Mincio.jpg",
     "id": "node/7204350430"
   },
   "geometry": {
@@ -1677,10 +1686,15 @@
   "id": "node/7648382704",
   "properties": {
     "addr:city": "Giazza",
+    "addr:country": "IT",
+    "addr:housenumber": "6",
+    "addr:street": "Piazza don Mrcante",
     "defibrillator:location": "L'apparato è installato a destra dell'ingresso dell'Osteria Ljetzan",
     "emergency": "defibrillator",
     "name": "Osteria Ljetzan",
     "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_Osteria_Ljetzan_Giazza.jpg",
     "id": "node/7648382704"
   },
   "geometry": {
@@ -2072,6 +2086,59 @@
     "coordinates": [
       11.0748229,
       45.4431121
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8951268034",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "52",
+    "addr:postcode": "37121",
+    "addr:street": "Via Giuseppe Mazzini",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Due Campane",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_due_Campane_Verona.jpg",
+    "id": "node/8951268034"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9947476,
+      45.4407141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8951268035",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Bosco Chiesanuova",
+    "addr:country": "IT",
+    "addr:housenumber": "31",
+    "addr:postcode": "37021",
+    "addr:street": "Via Marcello Carcereri",
+    "defibrillator:location": "L'apparato è installato sotto la tettoia della pizzeria",
+    "emergency": "defibrillator",
+    "name": "Pizzeria da Fabio",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_Pizzeria_da_Fabio_Cerro_Veronese.jpg",
+    "id": "node/8951268035"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0414743,
+      45.5811685
     ]
   }
 }
