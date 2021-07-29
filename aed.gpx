@@ -837,4 +837,19 @@ opening_hours=24/7
 outdoor=yes
 wheelchair=yes
 wikimedia_commons=File:DAE_Pizzeria_da_Fabio_Cerro_Veronese.jpg
-id=node/8951268035</desc></wpt></gpx>
+id=node/8951268035</desc></wpt><wpt lat="45.4348015" lon="10.9935983"><name>Liceo Statale Carlo Montanari</name><desc>emergency=defibrillator
+name=Liceo Statale Carlo Montanari
+id=node/8956966704</desc></wpt><wpt lat="45.4340611" lon="10.9963142"><name>Polizia Municipale</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=32
+addr:postcode=37122
+addr:street=Via del Pontiere
+defibrillator:location=L'apparato è installato a sinistra dell'ingresso carraio della polizia Municipale
+emergency=defibrillator
+name=Polizia Municipale
+opening_hours=24/7
+outdoor=yes
+wheelchair=yes
+wikimedia_commons=File:DAE_presso_sede_Polizia_Municipale_Verona.jpg
+id=node/8956966713</desc></wpt></gpx>
