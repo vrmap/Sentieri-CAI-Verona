@@ -253,9 +253,11 @@ addr:postcode=37136
 addr:street=Via Giovanna Murari Brà
 defibrillator:location=L'apparato è installato sul pilastro a destra dell'ingresso della Farmacia
 emergency=defibrillator
+indoor=no
 name=La Mia Farmacia
 opening_hours=24/7
 outdoor=yes
+wikimedia_commons=File:DAE_presso_La_Mia_Farmacia.jpg
 id=node/6229421217</desc></wpt><wpt lat="45.474604" lon="10.8475254"><name>Municipio di Bussolengo</name><desc>access=yes
 addr:city=Bussolengo
 addr:country=IT

@@ -596,9 +596,11 @@
     "addr:street": "Via Giovanna Murari Brà",
     "defibrillator:location": "L'apparato è installato sul pilastro a destra dell'ingresso della Farmacia",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "La Mia Farmacia",
     "opening_hours": "24/7",
     "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_La_Mia_Farmacia.jpg",
     "id": "node/6229421217"
   },
   "geometry": {
