@@ -2186,6 +2186,81 @@
       45.4340611
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8971440469",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Pradelle",
+    "addr:country": "IT",
+    "addr:housenumber": "38",
+    "addr:postcode": "37060",
+    "addr:street": "Via 9 Maggio",
+    "defibrillator:location": "L'apparato è unstallato sul palo dell'insegna della farmacia",
+    "emergency": "defibrillator",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8971440469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.871838,
+      45.2826222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971440474",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Lavagno",
+    "addr:country": "IT",
+    "addr:housenumber": "5",
+    "addr:postcode": "37030",
+    "addr:street": "Via Niccolò Copernico",
+    "defibrillator:location": "L'apparato è unstallato sull'angolo a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Montanari",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "id": "node/8971440474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.132601,
+      45.4194101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971440475",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Lavagno",
+    "addr:country": "IT",
+    "addr:housenumber": "44",
+    "addr:postcode": "37030",
+    "addr:street": "Via Fontana",
+    "emergency": "defibrillator",
+    "name": "Farmacia Vanzan",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "id": "node/8971440475"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1372782,
+      45.4258055
+    ]
+  }
 }
 ]
 }
