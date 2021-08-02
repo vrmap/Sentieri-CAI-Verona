@@ -46,12 +46,12 @@ addr:postcode=37064
 addr:street=Piazza IV Novembre
 defibrillator:location=L'apparato è installato nel vialetto di accesso di La quercia di Adamo dopo un cancello che talvolta è chiuso.
 emergency=defibrillator
-mapillary=bnBKkKRrTyfOK2AXWVDHJQ
 name=La quercia di Abramo
 name:en=AED
 opening_hours=24/7
 operator=Comune di Povegliano Veronese
 wheelchair=limited
+wikimedia_commons=File:DAE_Centro_Anziani.jpg
 id=node/4171614553</desc></wpt><wpt lat="45.4383818" lon="10.99144"><name>Farmacia Internazionale</name><desc>addr:city=Verona
 addr:country=IT
 addr:housenumber=28
@@ -854,7 +854,7 @@ opening_hours=24/7
 outdoor=yes
 wheelchair=yes
 wikimedia_commons=File:DAE_presso_sede_Polizia_Municipale_Verona.jpg
-id=node/8956966713</desc></wpt><wpt lat="45.2826222" lon="10.871838"><name>node/8971440469</name><desc>access=yes
+id=node/8956966713</desc></wpt><wpt lat="45.2826222" lon="10.871838"><name>Farmacia San Leonardo</name><desc>access=yes
 addr:city=Pradelle
 addr:country=IT
 addr:housenumber=38
@@ -862,8 +862,10 @@ addr:postcode=37060
 addr:street=Via 9 Maggio
 defibrillator:location=L'apparato è unstallato sul palo dell'insegna della farmacia
 emergency=defibrillator
+name=Farmacia San Leonardo
 opening_hours=24/7
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_Farmacia_San_Leonardo.jpg
 id=node/8971440469</desc></wpt><wpt lat="45.4194101" lon="11.132601"><name>Farmacia Montanari</name><desc>access=yes
 addr:city=Lavagno
 addr:country=IT
@@ -887,4 +889,39 @@ name=Farmacia Vanzan
 opening_hours=24/7
 outdoor=yes
 wheelchair=yes
-id=node/8971440475</desc></wpt></gpx>
+id=node/8971440475</desc></wpt><wpt lat="45.1872361" lon="11.3095008"><name>Farmacia Mazzon</name><desc>access=yes
+addr:city=Legnago
+addr:country=IT
+addr:housenumber=16
+addr:postcode=37045
+addr:street=Via Casette
+defibrillator:location=L'apparato è unstallato sulla colonna a sinistra dell'ingresso della farmacia
+emergency=defibrillator
+name=Farmacia Mazzon
+opening_hours=24/7
+wheelchair=yes
+id=node/8971897220</desc></wpt><wpt lat="45.3493324" lon="11.0472957"><name>Farmacia Fiorini</name><desc>access=yes
+addr:city=Raldon
+addr:country=IT
+addr:housenumber=43
+addr:postcode=37057
+addr:street=Piazza Alcide De Gasperi
+defibrillator:location=L'apparato è unstallato sull'angolo a destra dell'ingresso della farmacia
+emergency=defibrillator
+name=Farmacia Fiorini
+opening_hours=24/7
+outdoor=yes
+wheelchair=yes
+id=node/8971897221</desc></wpt><wpt lat="45.251485" lon="11.1051339"><name>Farmacia Crosare</name><desc>access=yes
+addr:city=Bovolone
+addr:country=IT
+addr:housenumber=125
+addr:postcode=37051
+addr:street=Via Crosare
+defibrillator:location=L'apparato è unstallato a sinistra dell'ingresso della farmacia
+emergency=defibrillator
+name=Farmacia Crosare
+opening_hours=24/7
+outdoor=yes
+wheelchair=yes
+id=node/8971897224</desc></wpt></gpx>

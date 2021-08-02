@@ -109,12 +109,12 @@
     "addr:street": "Piazza IV Novembre",
     "defibrillator:location": "L'apparato è installato nel vialetto di accesso di La quercia di Adamo dopo un cancello che talvolta è chiuso.",
     "emergency": "defibrillator",
-    "mapillary": "bnBKkKRrTyfOK2AXWVDHJQ",
     "name": "La quercia di Abramo",
     "name:en": "AED",
     "opening_hours": "24/7",
     "operator": "Comune di Povegliano Veronese",
     "wheelchair": "limited",
+    "wikimedia_commons": "File:DAE_Centro_Anziani.jpg",
     "id": "node/4171614553"
   },
   "geometry": {
@@ -2199,8 +2199,10 @@
     "addr:street": "Via 9 Maggio",
     "defibrillator:location": "L'apparato è unstallato sul palo dell'insegna della farmacia",
     "emergency": "defibrillator",
+    "name": "Farmacia San Leonardo",
     "opening_hours": "24/7",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_San_Leonardo.jpg",
     "id": "node/8971440469"
   },
   "geometry": {
@@ -2259,6 +2261,83 @@
     "coordinates": [
       11.1372782,
       45.4258055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971897220",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Legnago",
+    "addr:country": "IT",
+    "addr:housenumber": "16",
+    "addr:postcode": "37045",
+    "addr:street": "Via Casette",
+    "defibrillator:location": "L'apparato è unstallato sulla colonna a sinistra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Mazzon",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8971897220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3095008,
+      45.1872361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971897221",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Raldon",
+    "addr:country": "IT",
+    "addr:housenumber": "43",
+    "addr:postcode": "37057",
+    "addr:street": "Piazza Alcide De Gasperi",
+    "defibrillator:location": "L'apparato è unstallato sull'angolo a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Fiorini",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "id": "node/8971897221"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0472957,
+      45.3493324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971897224",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Bovolone",
+    "addr:country": "IT",
+    "addr:housenumber": "125",
+    "addr:postcode": "37051",
+    "addr:street": "Via Crosare",
+    "defibrillator:location": "L'apparato è unstallato a sinistra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Crosare",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "id": "node/8971897224"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1051339,
+      45.251485
     ]
   }
 }
