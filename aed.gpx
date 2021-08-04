@@ -52,7 +52,8 @@ opening_hours=24/7
 operator=Comune di Povegliano Veronese
 wheelchair=limited
 wikimedia_commons=File:DAE_Centro_Anziani.jpg
-id=node/4171614553</desc></wpt><wpt lat="45.4383818" lon="10.99144"><name>Farmacia Internazionale</name><desc>addr:city=Verona
+id=node/4171614553</desc></wpt><wpt lat="45.4383818" lon="10.99144"><name>Farmacia Internazionale</name><desc>access=yes
+addr:city=Verona
 addr:country=IT
 addr:housenumber=28
 addr:postcode=37121
@@ -62,6 +63,8 @@ emergency=defibrillator
 name=Farmacia Internazionale
 opening_hours=24/7
 outdoor=yes
+wheelchair=yes
+wikimedia_commons=File:DAE_presso_Farmacia_Internazionale.jpg
 id=node/4296566208</desc></wpt><wpt lat="45.5470319" lon="10.7193239"><name>Municipio di Bardolino</name><desc>access=yes
 addr:city=Bardolino
 addr:country=IT
@@ -81,7 +84,7 @@ emergency=defibrillator
 indoor=yes
 name=Centro Anziani Povegliano Veronese
 operator=Comune di Povegliano Veronese
-id=node/4296587220</desc></wpt><wpt lat="45.4386301" lon="10.9453037"><name>Oratorio XVI secolo</name><desc>access=yes
+id=node/4296587220</desc></wpt><wpt lat="45.4386343" lon="10.9453049"><name>Oratorio XVI secolo</name><desc>access=yes
 addr:city=Verona
 addr:country=IT
 addr:housenumber=13
@@ -93,6 +96,7 @@ name=Oratorio XVI secolo
 opening_hours=24/7
 outdoor=yes
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_canonica.jpg
 id=node/4469411485</desc></wpt><wpt lat="45.4330404" lon="10.8899887"><name>Anagrafe di Lugagnano</name><desc>access=yes
 addr:city=Lugagnano
 addr:country=IT
@@ -126,6 +130,7 @@ indoor=no
 name=Farmacia San Zeno
 opening_hours=24/7
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_Farmacia_San_Zeno.jpg
 id=node/5142809554</desc></wpt><wpt lat="45.4169902" lon="10.8960947"><name>Biblioteca di Caselle di Sommacampagna</name><desc>access=yes
 addr:city=Caselle di Sommacampagna
 addr:country=IT
@@ -169,6 +174,8 @@ emergency=defibrillator
 name=Stazione Porta Nuova
 opening_hours=24/7
 outdoor=yes
+wheelchair=yes
+wikimedia_commons=File:DAE_presso_stazione_Porta_Nuova.jpg
 id=node/5370532799</desc></wpt><wpt lat="45.4144376" lon="10.9598467"><name>Centro Sportivo Golosine</name><desc>access=customers
 addr:city=Verona
 addr:country=IT
@@ -692,9 +699,19 @@ emergency=defibrillator
 name=Ristorante Albergo Al Cacciatore
 opening_hours=24/7
 wikimedia_commons=File:Defibrillatore Ferrara di Monte Baldo.jpg
-id=node/7731366888</desc></wpt><wpt lat="45.4432852" lon="10.9761795"><name>node/7742932860</name><desc>emergency=defibrillator
+id=node/7731366888</desc></wpt><wpt lat="45.4432706" lon="10.9761438"><name>node/7742932860</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=9
+addr:postcode=37123
+addr:street=Piazza Bacanal
+defibrillator:location=Il defibrillatore è installato sulla parete lato via Pontida sede Croce Bianca Verona
+emergency=defibrillator
 indoor=no
+opening_hours=24/7
 operator=Croce Bianca Verona
+wheelchair=yes
+wikimedia_commons=File:DAE_presso_Croce_Bianca.jpg
 id=node/7742932860</desc></wpt><wpt lat="45.4564588" lon="10.9825654"><name>node/7742961442</name><desc>emergency=defibrillator
 indoor=no
 operator=Parrocchia Sacro Cuore di Gesù
@@ -924,4 +941,50 @@ name=Farmacia Crosare
 opening_hours=24/7
 outdoor=yes
 wheelchair=yes
-id=node/8971897224</desc></wpt></gpx>
+id=node/8971897224</desc></wpt><wpt lat="45.4432882" lon="10.9710503"><name>Farmacia Borgo Milano</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=69
+addr:postcode=37138
+addr:street=Corso Milano
+defibrillator:location=Il defibrillatore è installato a destra dell'ingresso della farmacia
+emergency=defibrillator
+name=Farmacia Borgo Milano
+opening_hours=24/7
+outdoor=yes
+wheelchair=yes
+wikimedia_commons=File:DAE_presso_Farmacia_Borgo_Milano.jpg
+id=node/8977319937</desc></wpt><wpt lat="45.41106" lon="10.9939929"><name>Farmacia Bacchini</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=23A
+addr:postcode=37134
+addr:street=Via Bartolomeo Giuliari
+defibrillator:location=Il defibrillatore è installato sull'angolo della farmacia
+emergency=defibrillator
+name=Farmacia Bacchini
+opening_hours=24/7
+wheelchair=yes
+id=node/8977881519</desc></wpt><wpt lat="45.4196782" lon="10.9543354"><name>Farmacia Realdon</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=48
+addr:postcode=37137
+addr:street=Via Villafranca
+defibrillator:location=Il defibrillatore è installato a sinistra dell'ingresso della farmacia
+emergency=defibrillator
+name=Farmacia Realdon
+opening_hours=24/7
+wheelchair=yes
+id=node/8977881521</desc></wpt><wpt lat="45.4423607" lon="10.9410115"><name>Farmacia Soave</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=8
+addr:postcode=37139
+addr:street=Via San Lucillo
+defibrillator:location=Il defibrillatore è installato a destra dell'ingresso della farmacia
+emergency=defibrillator
+name=Farmacia Soave
+opening_hours=24/7
+wheelchair=yes
+id=node/8977881522</desc></wpt></gpx>

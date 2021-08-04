@@ -129,6 +129,7 @@
   "type": "Feature",
   "id": "node/4296566208",
   "properties": {
+    "access": "yes",
     "addr:city": "Verona",
     "addr:country": "IT",
     "addr:housenumber": "28",
@@ -139,6 +140,8 @@
     "name": "Farmacia Internazionale",
     "opening_hours": "24/7",
     "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_Internazionale.jpg",
     "id": "node/4296566208"
   },
   "geometry": {
@@ -212,13 +215,14 @@
     "opening_hours": "24/7",
     "outdoor": "yes",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_canonica.jpg",
     "id": "node/4469411485"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      10.9453037,
-      45.4386301
+      10.9453049,
+      45.4386343
     ]
   }
 },
@@ -287,6 +291,7 @@
     "name": "Farmacia San Zeno",
     "opening_hours": "24/7",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_San_Zeno.jpg",
     "id": "node/5142809554"
   },
   "geometry": {
@@ -386,6 +391,8 @@
     "name": "Stazione Porta Nuova",
     "opening_hours": "24/7",
     "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_stazione_Porta_Nuova.jpg",
     "id": "node/5370532799"
   },
   "geometry": {
@@ -1735,16 +1742,26 @@
   "type": "Feature",
   "id": "node/7742932860",
   "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "9",
+    "addr:postcode": "37123",
+    "addr:street": "Piazza Bacanal",
+    "defibrillator:location": "Il defibrillatore è installato sulla parete lato via Pontida sede Croce Bianca Verona",
     "emergency": "defibrillator",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Croce Bianca Verona",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Croce_Bianca.jpg",
     "id": "node/7742932860"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      10.9761795,
-      45.4432852
+      10.9761438,
+      45.4432706
     ]
   }
 },
@@ -2338,6 +2355,108 @@
     "coordinates": [
       11.1051339,
       45.251485
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8977319937",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "69",
+    "addr:postcode": "37138",
+    "addr:street": "Corso Milano",
+    "defibrillator:location": "Il defibrillatore è installato a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Borgo Milano",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_Borgo_Milano.jpg",
+    "id": "node/8977319937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9710503,
+      45.4432882
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8977881519",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "23A",
+    "addr:postcode": "37134",
+    "addr:street": "Via Bartolomeo Giuliari",
+    "defibrillator:location": "Il defibrillatore è installato sull'angolo della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Bacchini",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8977881519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9939929,
+      45.41106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8977881521",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "48",
+    "addr:postcode": "37137",
+    "addr:street": "Via Villafranca",
+    "defibrillator:location": "Il defibrillatore è installato a sinistra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Realdon",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8977881521"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9543354,
+      45.4196782
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8977881522",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "8",
+    "addr:postcode": "37139",
+    "addr:street": "Via San Lucillo",
+    "defibrillator:location": "Il defibrillatore è installato a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Soave",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8977881522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9410115,
+      45.4423607
     ]
   }
 }
