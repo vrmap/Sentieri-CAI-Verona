@@ -831,6 +831,7 @@ emergency=defibrillator
 name=Percorso della Salute
 opening_hours=24/7
 wheelchair=yes
+wikimedia_commons=File:AED_percorso_della_salute.jpg
 id=node/8594839714</desc></wpt><wpt lat="45.4407141" lon="10.9947476"><name>Farmacia Due Campane</name><desc>access=yes
 addr:city=Verona
 addr:country=IT
@@ -965,6 +966,7 @@ emergency=defibrillator
 name=Farmacia Bacchini
 opening_hours=24/7
 wheelchair=yes
+wikimedia_commons=File:AED_farmacia_Bacchini.jpg
 id=node/8977881519</desc></wpt><wpt lat="45.4196782" lon="10.9543354"><name>Farmacia Realdon</name><desc>access=yes
 addr:city=Verona
 addr:country=IT
@@ -987,4 +989,15 @@ emergency=defibrillator
 name=Farmacia Soave
 opening_hours=24/7
 wheelchair=yes
-id=node/8977881522</desc></wpt></gpx>
+id=node/8977881522</desc></wpt><wpt lat="45.4489806" lon="11.0228218"><name>Farmacia Marchiori</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=28
+addr:postcode=37131
+addr:street=Via Villa Cozza
+defibrillator:location=A destra dell'ingresso della farmacia
+emergency=defibrillator
+name=Farmacia Marchiori
+opening_hours=24/7
+wheelchair=yes
+id=node/8982551444</desc></wpt></gpx>

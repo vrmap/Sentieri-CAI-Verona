@@ -2098,6 +2098,7 @@
     "name": "Percorso della Salute",
     "opening_hours": "24/7",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:AED_percorso_della_salute.jpg",
     "id": "node/8594839714"
   },
   "geometry": {
@@ -2400,6 +2401,7 @@
     "name": "Farmacia Bacchini",
     "opening_hours": "24/7",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:AED_farmacia_Bacchini.jpg",
     "id": "node/8977881519"
   },
   "geometry": {
@@ -2457,6 +2459,31 @@
     "coordinates": [
       10.9410115,
       45.4423607
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8982551444",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "28",
+    "addr:postcode": "37131",
+    "addr:street": "Via Villa Cozza",
+    "defibrillator:location": "A destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Marchiori",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8982551444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0228218,
+      45.4489806
     ]
   }
 }
