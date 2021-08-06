@@ -978,6 +978,7 @@ emergency=defibrillator
 name=Farmacia Realdon
 opening_hours=24/7
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_Farmacia_Realdon.jpg
 id=node/8977881521</desc></wpt><wpt lat="45.4423607" lon="10.9410115"><name>Farmacia Soave</name><desc>access=yes
 addr:city=Verona
 addr:country=IT
@@ -989,6 +990,7 @@ emergency=defibrillator
 name=Farmacia Soave
 opening_hours=24/7
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_farmacia_Soave.jpg
 id=node/8977881522</desc></wpt><wpt lat="45.4489806" lon="11.0228218"><name>Farmacia Marchiori</name><desc>access=yes
 addr:city=Verona
 addr:country=IT
@@ -1000,4 +1002,15 @@ emergency=defibrillator
 name=Farmacia Marchiori
 opening_hours=24/7
 wheelchair=yes
-id=node/8982551444</desc></wpt></gpx>
+id=node/8982551444</desc></wpt><wpt lat="45.4287272" lon="11.0498938"><name>Farmacia Comunale Madonna di Campagna</name><desc>access=yes
+addr:city=Verona
+addr:country=IT
+addr:housenumber=1
+addr:postcode=37132
+addr:street=Via Monte Bianco
+defibrillator:location=Il defibrillatore è installato sull'andolo della Farmacia
+emergency=defibrillator
+name=Farmacia Comunale Madonna di Campagna
+opening_hours=24/7
+wheelchair=yes
+id=node/8983161623</desc></wpt></gpx>

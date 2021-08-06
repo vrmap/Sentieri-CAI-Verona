@@ -2427,6 +2427,7 @@
     "name": "Farmacia Realdon",
     "opening_hours": "24/7",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_Realdon.jpg",
     "id": "node/8977881521"
   },
   "geometry": {
@@ -2452,6 +2453,7 @@
     "name": "Farmacia Soave",
     "opening_hours": "24/7",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_farmacia_Soave.jpg",
     "id": "node/8977881522"
   },
   "geometry": {
@@ -2484,6 +2486,31 @@
     "coordinates": [
       11.0228218,
       45.4489806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8983161623",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37132",
+    "addr:street": "Via Monte Bianco",
+    "defibrillator:location": "Il defibrillatore è installato sull'andolo della Farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Comunale Madonna di Campagna",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8983161623"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0498938,
+      45.4287272
     ]
   }
 }
