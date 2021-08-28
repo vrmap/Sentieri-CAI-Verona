@@ -841,6 +841,7 @@ addr:postcode=37121
 addr:street=Via Giuseppe Mazzini
 defibrillator:location=L'apparato è installato a destra dell'ingresso della farmacia
 emergency=defibrillator
+indoor=no
 name=Farmacia Due Campane
 opening_hours=24/7
 wheelchair=yes
