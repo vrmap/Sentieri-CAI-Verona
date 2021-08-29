@@ -163,6 +163,7 @@
     "addr:street": "Lungolago Francesco Lenotti",
     "defibrillator:location": "L'apparato è installato sulla parete ovest del Municipio di fronte lago",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Municipio di Bardolino",
     "opening_hours": "24/7",
     "outdoor": "yes",
