@@ -315,6 +315,7 @@ indoor=no
 name=Ristorante Al Caminetto
 opening_hours=24/7
 operator=Comune di Bosco Chiesanuova
+wikimedia_commons=File:DAE_San_Giorgio.jpg
 id=node/6442096293</desc></wpt><wpt lat="45.3913276" lon="10.9156164"><name>Farmacia Comunale</name><desc>access=yes
 addr:city=Dossobuono
 addr:country=IT
@@ -1017,4 +1018,33 @@ emergency=defibrillator
 name=Farmacia Comunale Madonna di Campagna
 opening_hours=24/7
 wheelchair=yes
-id=node/8983161623</desc></wpt></gpx>
+id=node/8983161623</desc></wpt><wpt lat="45.5743658" lon="11.0411082"><name>Cassa Rurale Vallgarina</name><desc>access=yes
+addr:city=Cerro Veronese
+addr:country=IT
+addr:housenumber=4
+addr:postcode=37020
+defibrillator:location=Installato a destra dell'ingresso della banca.
+emergency=defibrillator
+name=Cassa Rurale Vallgarina
+opening_hours=24/7
+id=node/9053733438</desc></wpt><wpt lat="45.5935534" lon="11.0657772"><name>Cassa Rurale Vallagarina</name><desc>access=yes
+addr:city=Roverè Veronese
+addr:country=IT
+addr:housenumber=18
+addr:postcode=37028
+addr:street=Piazza Vittorio Emanuele
+defibrillator:location=Installato a destra dell'ingresso della banca
+emergency=defibrillator
+name=Cassa Rurale Vallagarina
+opening_hours=24/7
+wheelchair=yes
+id=node/9055318657</desc></wpt><wpt lat="45.6052329" lon="11.0959853"><name>Piazzetta Attilio Benetti</name><desc>access=yes
+addr:city=Velo Veronese
+addr:country=IT
+addr:street=Piazzetta Attilio Benetti
+defibrillator:location=Installato in Piazzetta Attilio Benetti
+emergency=defibrillator
+name=Piazzetta Attilio Benetti
+opening_hours=24/7
+wheelchair=yes
+id=node/9055318686</desc></wpt></gpx>

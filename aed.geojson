@@ -742,6 +742,7 @@
     "name": "Ristorante Al Caminetto",
     "opening_hours": "24/7",
     "operator": "Comune di Bosco Chiesanuova",
+    "wikimedia_commons": "File:DAE_San_Giorgio.jpg",
     "id": "node/6442096293"
   },
   "geometry": {
@@ -2515,6 +2516,77 @@
     "coordinates": [
       11.0498938,
       45.4287272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9053733438",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Cerro Veronese",
+    "addr:country": "IT",
+    "addr:housenumber": "4",
+    "addr:postcode": "37020",
+    "defibrillator:location": "Installato a destra dell'ingresso della banca.",
+    "emergency": "defibrillator",
+    "name": "Cassa Rurale Vallgarina",
+    "opening_hours": "24/7",
+    "id": "node/9053733438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0411082,
+      45.5743658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9055318657",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Roverè Veronese",
+    "addr:country": "IT",
+    "addr:housenumber": "18",
+    "addr:postcode": "37028",
+    "addr:street": "Piazza Vittorio Emanuele",
+    "defibrillator:location": "Installato a destra dell'ingresso della banca",
+    "emergency": "defibrillator",
+    "name": "Cassa Rurale Vallagarina",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/9055318657"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0657772,
+      45.5935534
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9055318686",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Velo Veronese",
+    "addr:country": "IT",
+    "addr:street": "Piazzetta Attilio Benetti",
+    "defibrillator:location": "Installato in Piazzetta Attilio Benetti",
+    "emergency": "defibrillator",
+    "name": "Piazzetta Attilio Benetti",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/9055318686"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0959853,
+      45.6052329
     ]
   }
 }
