@@ -533,6 +533,7 @@
     "opening_hours": "24/7",
     "operator": "Comune Bosco Chiesanuova",
     "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_Valdiporro.jpg",
     "id": "node/5860589735"
   },
   "geometry": {
@@ -556,6 +557,8 @@
     "name": "Scuola di Lughezzano",
     "opening_hours": "24/7",
     "operator": "Comune di Bosco Chiesanuova",
+    "support": "wall_mounted",
+    "wikimedia_commons": "File:DAE_presso_Lughezzano.jpg",
     "id": "node/5860723075"
   },
   "geometry": {
@@ -2532,6 +2535,7 @@
     "emergency": "defibrillator",
     "name": "Cassa Rurale Vallgarina",
     "opening_hours": "24/7",
+    "wikimedia_commons": "File:DAE_presso_Cerro_Veronese.jpg",
     "id": "node/9053733438"
   },
   "geometry": {
@@ -2557,6 +2561,7 @@
     "name": "Cassa Rurale Vallagarina",
     "opening_hours": "24/7",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Rovere_Veronese.jpg",
     "id": "node/9055318657"
   },
   "geometry": {
@@ -2580,6 +2585,7 @@
     "name": "Piazzetta Attilio Benetti",
     "opening_hours": "24/7",
     "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Velo_Veronese.jpg",
     "id": "node/9055318686"
   },
   "geometry": {

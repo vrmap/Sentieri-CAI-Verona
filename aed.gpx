@@ -232,6 +232,7 @@ name=Chiesa di Valdiporro
 opening_hours=24/7
 operator=Comune Bosco Chiesanuova
 outdoor=yes
+wikimedia_commons=File:DAE_presso_Valdiporro.jpg
 id=node/5860589735</desc></wpt><wpt lat="45.5955339" lon="11.0046697"><name>Scuola di Lughezzano</name><desc>access=yes
 addr:city=Lughezzano
 addr:country=IT
@@ -241,6 +242,8 @@ indoor=no
 name=Scuola di Lughezzano
 opening_hours=24/7
 operator=Comune di Bosco Chiesanuova
+support=wall_mounted
+wikimedia_commons=File:DAE_presso_Lughezzano.jpg
 id=node/5860723075</desc></wpt><wpt lat="45.4431161" lon="10.9974487"><name>Farmacia Centrale</name><desc>access=yes
 addr:city=Verona
 addr:country=IT
@@ -1027,6 +1030,7 @@ defibrillator:location=Installato a destra dell'ingresso della banca.
 emergency=defibrillator
 name=Cassa Rurale Vallgarina
 opening_hours=24/7
+wikimedia_commons=File:DAE_presso_Cerro_Veronese.jpg
 id=node/9053733438</desc></wpt><wpt lat="45.5935534" lon="11.0657772"><name>Cassa Rurale Vallagarina</name><desc>access=yes
 addr:city=Roverè Veronese
 addr:country=IT
@@ -1038,6 +1042,7 @@ emergency=defibrillator
 name=Cassa Rurale Vallagarina
 opening_hours=24/7
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_Rovere_Veronese.jpg
 id=node/9055318657</desc></wpt><wpt lat="45.6052329" lon="11.0959853"><name>Piazzetta Attilio Benetti</name><desc>access=yes
 addr:city=Velo Veronese
 addr:country=IT
@@ -1047,4 +1052,5 @@ emergency=defibrillator
 name=Piazzetta Attilio Benetti
 opening_hours=24/7
 wheelchair=yes
+wikimedia_commons=File:DAE_presso_Velo_Veronese.jpg
 id=node/9055318686</desc></wpt></gpx>
