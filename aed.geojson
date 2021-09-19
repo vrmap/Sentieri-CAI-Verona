@@ -1478,6 +1478,7 @@
     "addr:street": "Lungolago Regina Adelaide",
     "defibrillator:location": "L'apparato è installato a destra dell'ingresso del Municipio.",
     "emergency": "defibrillator",
+    "indoor": "yes",
     "mapillary": "RT0Nt2hae6Y9bVVysw8luA",
     "name": "Municipio di Garda",
     "opening_hours": "24/7",
