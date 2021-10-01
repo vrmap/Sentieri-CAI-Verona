@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-09-29T10:07:27Z",
-    "timestamp_areas_base": "2021-09-29T08:57:43Z",
+    "timestamp_osm_base": "2021-10-01T10:07:23Z",
+    "timestamp_areas_base": "2021-10-01T09:02:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1943,6 +1943,50 @@
     "opening_hours": "24/7",
     "wheelchair": "yes",
     "wikimedia_commons": "File:DAE_presso_Velo_Veronese.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 9135468181,
+  "lat": 45.4224965,
+  "lon": 11.0898788,
+  "tags": {
+    "access": "yes",
+    "addr:city": "San Martino Buon Albergo",
+    "addr:country": "IT",
+    "addr:housenumber": "57",
+    "addr:postcode": "37036",
+    "addr:street": "Via Venti Settembre",
+    "defibrillator:location": "Installato a sinistra dell'ingresso dei Servizi al cittadino del Comune",
+    "emergency": "defibrillator",
+    "name": "Servizi al cittadino",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "support": "wall_mounted",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_San_Martino_Buon_Albergo.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 9135468182,
+  "lat": 45.4177983,
+  "lon": 11.0895033,
+  "tags": {
+    "access": "yes",
+    "addr:city": "San Martino Buon Albergo",
+    "addr:country": "IT",
+    "addr:housenumber": "8",
+    "addr:postcode": "37036",
+    "addr:street": "Via Fenil Novo",
+    "defibrillator:location": "Installato a destra dell'ingresso di FN8",
+    "emergency": "defibrillator",
+    "name": "FN8",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "support": "wall_mounted",
+    "wheelchair": "no",
+    "wikimedia_commons": "File:DAE_ZAI_San_Martino_Buonalbergo.jpg"
   }
 }
 

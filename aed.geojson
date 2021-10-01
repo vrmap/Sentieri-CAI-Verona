@@ -2597,6 +2597,62 @@
       45.6052329
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9135468181",
+  "properties": {
+    "access": "yes",
+    "addr:city": "San Martino Buon Albergo",
+    "addr:country": "IT",
+    "addr:housenumber": "57",
+    "addr:postcode": "37036",
+    "addr:street": "Via Venti Settembre",
+    "defibrillator:location": "Installato a sinistra dell'ingresso dei Servizi al cittadino del Comune",
+    "emergency": "defibrillator",
+    "name": "Servizi al cittadino",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "support": "wall_mounted",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_San_Martino_Buon_Albergo.jpg",
+    "id": "node/9135468181"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0898788,
+      45.4224965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9135468182",
+  "properties": {
+    "access": "yes",
+    "addr:city": "San Martino Buon Albergo",
+    "addr:country": "IT",
+    "addr:housenumber": "8",
+    "addr:postcode": "37036",
+    "addr:street": "Via Fenil Novo",
+    "defibrillator:location": "Installato a destra dell'ingresso di FN8",
+    "emergency": "defibrillator",
+    "name": "FN8",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "support": "wall_mounted",
+    "wheelchair": "no",
+    "wikimedia_commons": "File:DAE_ZAI_San_Martino_Buonalbergo.jpg",
+    "id": "node/9135468182"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0895033,
+      45.4177983
+    ]
+  }
 }
 ]
 }
