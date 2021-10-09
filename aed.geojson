@@ -1,6 +1,2659 @@
 {
 "type": "FeatureCollection",
 "features": [
-
+{
+  "type": "Feature",
+  "id": "node/1521824171",
+  "properties": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "2/B",
+    "addr:postcode": "37122",
+    "addr:street": "Piazza Santo Spirito",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Comunale Grattacielo",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_farmacia_comunale_Grattacielo_Verona.jpg",
+    "id": "node/1521824171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9846565,
+      45.4351343
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3321665761",
+  "properties": {
+    "access": "private",
+    "addr:city": "Povegliano Veronese",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "37064",
+    "addr:street": "Piazza IV Novembre",
+    "emergency": "defibrillator",
+    "name": "Circolo Noi Il Gabbiano",
+    "name:en": "AED",
+    "operator": "Circolo Noi Il Gabbiano",
+    "id": "node/3321665761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.881371,
+      45.3467424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3857631085",
+  "properties": {
+    "addr:city": "Zevio",
+    "addr:country": "IT",
+    "addr:housenumber": "44",
+    "addr:postcode": "37059",
+    "addr:street": "Via Aldo Moro",
+    "emergency": "defibrillator",
+    "id": "node/3857631085"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.125863,
+      45.3766256
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4047417816",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Bosco Chiesanuova",
+    "addr:country": "IT",
+    "addr:housenumber": "35",
+    "addr:postcode": "37021",
+    "addr:street": "Piazza della Chiesa",
+    "defibrillator:location": "L'apparato è installato nel tunnel che collega Piazza della Chiesa a Piazza Guglielmo Marconi",
+    "emergency": "defibrillator",
+    "name": "Municipio Bosco Chiesanuova",
+    "opening_hours": "24/7",
+    "operator": "Comune Bosco Chiesanuova",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Bosco_Chiesanuova.jpg",
+    "id": "node/4047417816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0295068,
+      45.6223081
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4171614553",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Povegliano Veronese",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37064",
+    "addr:street": "Piazza IV Novembre",
+    "defibrillator:location": "L'apparato è installato nel vialetto di accesso di La quercia di Adamo dopo un cancello che talvolta è chiuso.",
+    "emergency": "defibrillator",
+    "name": "La quercia di Abramo",
+    "name:en": "AED",
+    "opening_hours": "24/7",
+    "operator": "Comune di Povegliano Veronese",
+    "wheelchair": "limited",
+    "wikimedia_commons": "File:DAE_Centro_Anziani.jpg",
+    "id": "node/4171614553"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8808229,
+      45.3468939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4296566208",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "28",
+    "addr:postcode": "37121",
+    "addr:street": "Piazza Brà",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso della Farmacia dietro la colonna d'angolo del porticato",
+    "emergency": "defibrillator",
+    "name": "Farmacia Internazionale",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_Internazionale.jpg",
+    "id": "node/4296566208"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.99144,
+      45.4383818
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4296575199",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Bardolino",
+    "addr:country": "IT",
+    "addr:postcode": "37011",
+    "addr:street": "Lungolago Francesco Lenotti",
+    "defibrillator:location": "L'apparato è installato sulla parete ovest del Municipio di fronte lago",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Municipio di Bardolino",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "id": "node/4296575199"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7193239,
+      45.5470319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4296587220",
+  "properties": {
+    "addr:city": "Povegliano Veronese",
+    "addr:country": "IT",
+    "addr:housenumber": "12",
+    "addr:postcode": "37064",
+    "addr:street": "Via Fratelli Rosselli",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Centro Anziani Povegliano Veronese",
+    "operator": "Comune di Povegliano Veronese",
+    "id": "node/4296587220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8851135,
+      45.3497852
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4469411485",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "13",
+    "addr:postcode": "37139",
+    "addr:street": "Via Beniamino Romagnoli",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Oratorio XVI secolo",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_canonica.jpg",
+    "id": "node/4469411485"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9453049,
+      45.4386343
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4824981289",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Lugagnano",
+    "addr:country": "IT",
+    "addr:housenumber": "6",
+    "addr:postcode": "37060",
+    "addr:street": "Via 26 Aprile",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso della sede staccata dell'Anagrafe di Lugagnano",
+    "emergency": "defibrillator",
+    "name": "Anagrafe di Lugagnano",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Ufficio_Anagrafe_Lugagnano.jpg",
+    "id": "node/4824981289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8899887,
+      45.4330404
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5088993115",
+  "properties": {
+    "addr:city": "San Zeno di Montagna",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37010",
+    "addr:street": "Via Perare",
+    "emergency": "defibrillator",
+    "name": "Campo sportivo",
+    "id": "node/5088993115"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7217782,
+      45.6276071
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5142809554",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37123",
+    "addr:street": "Piazza Corrubbio",
+    "defibrillator:location": "All'esterno, accanto all'ingresso della farmacia",
+    "defibrillator:location:en": "Externally, beside the pharmacy entrance",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Farmacia San Zeno",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_San_Zeno.jpg",
+    "id": "node/5142809554"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9805015,
+      45.4415985
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5214694804",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Caselle di Sommacampagna",
+    "addr:country": "IT",
+    "addr:housenumber": "49",
+    "addr:postcode": "37066",
+    "addr:street": "Via Scuole",
+    "defibrillator:location": "L'apparato è installato presso l'ingresso della Boblioteca Comunale.",
+    "emergency": "defibrillator",
+    "name": "Biblioteca di Caselle di Sommacampagna",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_Caselle_di_Sommacampagna.jpg",
+    "id": "node/5214694804"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8960947,
+      45.4169902
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5221623457",
+  "properties": {
+    "access": "permissive",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:postcode": "37137",
+    "addr:street": "Via Sommacampagna",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Mercato Ortofrutticolo",
+    "id": "node/5221623457"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9198263,
+      45.4120515
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5309066565",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "94",
+    "addr:postcode": "37139",
+    "addr:street": "Via Aeroporto Angelo Berardi",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Farmacia Comunale Chievo",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_farmacia_Chievo.jpg",
+    "id": "node/5309066565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9470489,
+      45.458143
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5370532799",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:postcode": "37138",
+    "addr:street": "Piazzale Venticinque Aprile",
+    "defibrillator:location": "L'apparato è installato nella zona taxi della stazione treni di Porta Nuova",
+    "defibrillator:location:en": "taxi stop position",
+    "emergency": "defibrillator",
+    "name": "Stazione Porta Nuova",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_stazione_Porta_Nuova.jpg",
+    "id": "node/5370532799"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9831731,
+      45.4293967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5582423854",
+  "properties": {
+    "access": "customers",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "28",
+    "addr:postcode": "37136",
+    "addr:street": "Via Tanaro",
+    "defibrillator:location": "Installato a parete all'interno della piscina coperta, entrare e girare subito a sinistra",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Centro Sportivo Golosine",
+    "wheelchair": "yes",
+    "id": "node/5582423854"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9598467,
+      45.4144376
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5596680060",
+  "properties": {
+    "addr:city": "Dossobuono",
+    "addr:country": "IT",
+    "addr:postcode": "37062",
+    "addr:street": "Via della Maddalena",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Palazzetto dello Sport",
+    "id": "node/5596680060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9129053,
+      45.3929088
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5596680061",
+  "properties": {
+    "addr:city": "La Rizza",
+    "addr:country": "IT",
+    "addr:street": "Via Giuseppe Morandini",
+    "description": "L'apparato è installato presso lo spogliatoio arbitri",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Campo sportivo La Rizza",
+    "id": "node/5596680061"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9376058,
+      45.3734097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5783302153",
+  "properties": {
+    "addr:city": "Nogarole Rocca",
+    "addr:country": "IT",
+    "addr:postcode": "37060",
+    "emergency": "defibrillator",
+    "name": "Area di servizio Povegliano Est",
+    "id": "node/5783302153"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.897946,
+      45.2972136
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5860485336",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Corbiolo",
+    "addr:country": "IT",
+    "addr:postcode": "37021",
+    "addr:street": "Via Don A. Squaranti",
+    "defibrillator:location": "L'apparato è intallato a destra della porta d'ingresso",
+    "emergency": "defibrillator",
+    "mapillary": "i_j3SfEBnHpkK05hXlzV-Q",
+    "name": "Chiesa di Corbiolo",
+    "opening_hours": "24/7",
+    "operator": "Comune di Bosco Chiesanuova",
+    "wheelchair": "yes",
+    "id": "node/5860485336"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0307035,
+      45.5991816
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5860589735",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Valdiporro",
+    "addr:country": "IT",
+    "addr:housenumber": "37",
+    "addr:postcode": "37021",
+    "addr:street": "Piazza XIII Comuni",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso della Chiesa",
+    "emergency": "defibrillator",
+    "name": "Chiesa di Valdiporro",
+    "opening_hours": "24/7",
+    "operator": "Comune Bosco Chiesanuova",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_Valdiporro.jpg",
+    "id": "node/5860589735"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.051845,
+      45.6244232
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5860723075",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Lughezzano",
+    "addr:country": "IT",
+    "addr:postcode": "37021",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Scuola di Lughezzano",
+    "opening_hours": "24/7",
+    "operator": "Comune di Bosco Chiesanuova",
+    "support": "wall_mounted",
+    "wikimedia_commons": "File:DAE_presso_Lughezzano.jpg",
+    "id": "node/5860723075"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0046697,
+      45.5955339
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6229421216",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "20",
+    "addr:postcode": "37121",
+    "addr:street": "Piazza delle Erbe",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della Farmacia",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Farmacia Centrale",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_Centrale_Verona.jpg",
+    "id": "node/6229421216"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9974487,
+      45.4431161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6229421217",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "53",
+    "addr:postcode": "37136",
+    "addr:street": "Via Giovanna Murari Brà",
+    "defibrillator:location": "L'apparato è installato sul pilastro a destra dell'ingresso della Farmacia",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "La Mia Farmacia",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_La_Mia_Farmacia.jpg",
+    "id": "node/6229421217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9765082,
+      45.421052
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310659739",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Bussolengo",
+    "addr:country": "IT",
+    "addr:housenumber": "18",
+    "addr:postcode": "37012",
+    "addr:street": "Piazza della Libertà",
+    "defibrillator:location": "L'apparato è installato in un angolo a destra dell'ingresso del Municipio",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Municipio di Bussolengo",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Bussolengo.jpg",
+    "id": "node/6310659739"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8475254,
+      45.474604
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6338479614",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Castelnuovo del Garda",
+    "addr:country": "IT",
+    "addr:postcode": "37014",
+    "addr:street": "Via Oregolo",
+    "defibrillator:location": "installato di fianco alla dx della porta di ingresso del ristorante",
+    "emergency": "defibrillator",
+    "name": "Campi sportivi polivalenti comunali",
+    "opening_hours": "Mo-Su 08:00-24:00",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Defibrillator at playgrounds in Castelnuovo (Verona, ITALY).jpg",
+    "id": "node/6338479614"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7496822,
+      45.4423974
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6375389034",
+  "properties": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "name": "Gardaland Aladino",
+    "wheelchair": "yes",
+    "id": "node/6375389034"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7091042,
+      45.4572529
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6375389035",
+  "properties": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "name": "Gardaland corsari",
+    "wheelchair": "yes",
+    "id": "node/6375389035"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7091258,
+      45.4560947
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6375389036",
+  "properties": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "name": "Gardaland bancomat",
+    "wheelchair": "yes",
+    "id": "node/6375389036"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7152715,
+      45.4530216
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6442096293",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Bosco Chiesanuova",
+    "addr:country": "IT",
+    "addr:place": "Malga San Giorgio",
+    "addr:postcode": "37021",
+    "addr:street": "Malga San Giorgio",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso del ristorante Al Caminetto.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Ristorante Al Caminetto",
+    "opening_hours": "24/7",
+    "operator": "Comune di Bosco Chiesanuova",
+    "wikimedia_commons": "File:DAE_San_Giorgio.jpg",
+    "id": "node/6442096293"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0862049,
+      45.6856043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6442096296",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Dossobuono",
+    "addr:country": "IT",
+    "addr:housenumber": "34",
+    "addr:postcode": "37062",
+    "addr:street": "Via Stazione",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della Farmacia Comunale.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Farmacia Comunale",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Farmacia_Dossobuono.jpg",
+    "id": "node/6442096296"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9156164,
+      45.3913276
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6442096297",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Dossobuono",
+    "addr:country": "IT",
+    "addr:housenumber": "26",
+    "addr:postcode": "37062",
+    "addr:street": "Viale Europa",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso della Delegazione Comunale.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Delegazione Comunale",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Delegazione_Comunale_Dossobuono.jpg",
+    "id": "node/6442096297"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9133447,
+      45.3947582
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6448444740",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Circolo NOI",
+    "wheelchair": "no",
+    "id": "node/6448444740"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9148417,
+      45.3945459
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6521563338",
+  "properties": {
+    "emergency": "defibrillator",
+    "name": "Stazione arrivo funivia Monte Baldo",
+    "id": "node/6521563338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8644427,
+      45.7692131
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6521583530",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Assenza di Brenzone",
+    "addr:country": "IT",
+    "addr:housenumber": "38",
+    "addr:postcode": "37010",
+    "addr:street": "Via Gardesana",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Supermercato Despar",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/6521583530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.781119,
+      45.7259373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6521588642",
+  "properties": {
+    "addr:city": "Malcesine",
+    "addr:country": "IT",
+    "addr:housenumber": "12",
+    "addr:postcode": "37018",
+    "addr:street": "Via Navene Vecchia",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Stazione partenza funivia Monte Baldo",
+    "id": "node/6521588642"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8133141,
+      45.7661537
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6521956762",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Brenzone",
+    "addr:country": "IT",
+    "addr:housenumber": "15",
+    "addr:postcode": "37010",
+    "addr:street": "Via Venti Settembre",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/6521956762"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7670811,
+      45.7082948
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6526620187",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Albisano",
+    "addr:country": "IT",
+    "addr:street": "Via Oliveti",
+    "defibrillator:location": "L'apparato è installato all'esterno di fronte alla sala civica.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Via Oliveti",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/6526620187"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7018964,
+      45.6110708
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6568024368",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Rifugio Telegrafo",
+    "id": "node/6568024368"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8303811,
+      45.7048489
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6580022573",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Badia Calavena",
+    "addr:country": "IT",
+    "addr:street": "Piazza del Mercato",
+    "defibrillator:location": "L'apparato è installato nei giardini di Piazza Mercato",
+    "emergency": "defibrillator",
+    "name": "Piazza Mercato",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/6580022573"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1567101,
+      45.5636639
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6580022574",
+  "properties": {
+    "addr:city": "Tregnago",
+    "addr:country": "IT",
+    "addr:postcode": "37039",
+    "addr:street": "Via dei Bandi",
+    "defibrillator:location": "L'apparato è installato sulla desta dell'ingresso della Chiesa della Disciplina",
+    "emergency": "defibrillator",
+    "name": "Chiesa della Disciplina",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/6580022574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1641552,
+      45.5205301
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6580022575",
+  "properties": {
+    "addr:city": "Tregnago",
+    "addr:country": "IT",
+    "addr:postcode": "37039",
+    "addr:street": "Via Architetto G.C. Pellegrini Cipolla",
+    "defibrillator:location": "L'apparato è installato all'interno del Palazzetto dello Sport prina dell'ingresso della palestra",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Palazzetto dello Sport",
+    "id": "node/6580022575"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1653736,
+      45.5086007
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6580022576",
+  "properties": {
+    "addr:city": "San Martino Buonalbergo",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:street": "Viale Apollinare Veronesi",
+    "defibrillator:location": "L'apparato è installato all' interno guardiola AIA ingresso stabilimento",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Guardiola ingresso AIA",
+    "wikimedia_commons": "File:DAE_presso_AIA_Verona.jpg",
+    "id": "node/6580022576"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.071609,
+      45.4300281
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6580022577",
+  "properties": {
+    "addr:city": "San Martino Buonalbergo",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37036",
+    "addr:street": "Viale del Commercio",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Corti Venete",
+    "wikimedia_commons": "File:DAE_presso_Corti_Venete.jpg",
+    "id": "node/6580022577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0935843,
+      45.4125283
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6636558007",
+  "properties": {
+    "addr:city": "Selva di Progno",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:place": "Revolto",
+    "addr:postcode": "37030",
+    "addr:street": "Via Revolto di Sopra",
+    "defibrillator:location": "L'apparato è installato all'interno dietro il bancone.",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Rifugio Revolto",
+    "id": "node/6636558007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1188534,
+      45.6955255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6652013830",
+  "properties": {
+    "access": "yes",
+    "addr:city": "San Francesco",
+    "addr:country": "IT",
+    "addr:street": "Via San Francesco",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso dell'ambulatorio medico",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Ambulatorio medico",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_San_Francesco.jpg",
+    "id": "node/6652013830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0717495,
+      45.6259484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6680879791",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Dossobuono",
+    "addr:country": "IT",
+    "addr:postcode": "37062",
+    "addr:street": "Piazza Don Girelli",
+    "defibrillator:location": "Installato all'esterno del parco giochi parrocchiale.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Chiesa Dossobuono",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_Chiesa_Dossobuono.jpg",
+    "id": "node/6680879791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9140465,
+      45.3948603
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6700331458",
+  "properties": {
+    "access": "customers",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "37124",
+    "addr:street": "Via Fratelli Ballerini",
+    "defibrillator:location": "L'apparato è intallato nell'ingresso vicino alle casse",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Piscine Santini",
+    "id": "node/6700331458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.980376,
+      45.4632546
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6761560007",
+  "properties": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "14",
+    "addr:postcode": "37129",
+    "addr:street": "Via dell'Artigliere",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Scuola elementare Massalongo",
+    "id": "node/6761560007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.003965,
+      45.4375786
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6762272810",
+  "properties": {
+    "addr:city": "Soave",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:street": "Piazza Mercato dei Grani",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della Banca",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Unicredit",
+    "opening_hours": "24/7",
+    "id": "node/6762272810"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.2484577,
+      45.4206457
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6804836885",
+  "properties": {
+    "access": "customers",
+    "addr:city": "San Bonifacio",
+    "addr:country": "IT",
+    "addr:postcode": "37047",
+    "addr:street": "Via Roma",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Scuola Elementare Gino Sandri",
+    "id": "node/6804836885"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.2681881,
+      45.3978755
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6887935049",
+  "properties": {
+    "defibrillator:location": "L'apparato è installato presso la segreteria del campo sportivo",
+    "emergency": "defibrillator",
+    "name": "Centro sportivo di Grezzana",
+    "id": "node/6887935049"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0180019,
+      45.5229418
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6969339967",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "71",
+    "addr:postcode": "37129",
+    "addr:street": "Via San Nazaro",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso della Farmacia",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Farmacia alla Concezione",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Defibrillatore Farmacia alla Concezione.jpg",
+    "id": "node/6969339967"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0124541,
+      45.440184
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6989111487",
+  "properties": {
+    "addr:city": "Dossobuono",
+    "addr:country": "IT",
+    "addr:housenumber": "3",
+    "addr:postcode": "37062",
+    "addr:street": "Via Brigate Alpine",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Scuola Primaria Vittorio Locchi",
+    "id": "node/6989111487"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.912094,
+      45.393222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7024031974",
+  "properties": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "name": "Area di servizio Adige Ovest",
+    "opening_hours": "24/7",
+    "id": "node/7024031974"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.912182,
+      45.6931091
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7037808275",
+  "properties": {
+    "access": "yes",
+    "addr:city": "San Bonifacio",
+    "addr:country": "IT",
+    "addr:postcode": "37047",
+    "addr:street": "Via San Giovanni Bosco",
+    "defibrillator:location": "L'apparato è installato sul muro esterno del cinema teatro.",
+    "emergency": "defibrillator",
+    "name": "Cinema Teatro Centrale",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Circolo_NOI_San_Bonifacio.jpg",
+    "id": "node/7037808275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.2682484,
+      45.3950203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7037808276",
+  "properties": {
+    "access": "yes",
+    "addr:city": "San Bonifacio",
+    "addr:country": "IT",
+    "addr:postcode": "37047",
+    "addr:street": "Piazza della Costituzione",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso degli uffici comunali.",
+    "emergency": "defibrillator",
+    "name": "Uffici comunali",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Municipio_San_Bonifacio.jpg",
+    "id": "node/7037808276"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.27052,
+      45.3955694
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7042223441",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Villafranca di Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "24",
+    "addr:postcode": "37069",
+    "addr:street": "Corso Giuseppe Garibaldi",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso del Municipio",
+    "emergency": "defibrillator",
+    "mapillary": "uvJ9tque7Pqb6L7FnjvOMA",
+    "name": "Municipio Villafranca di Verona",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "id": "node/7042223441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8460208,
+      45.3509813
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7048465956",
+  "properties": {
+    "access": "customers",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "26F",
+    "addr:postcode": "37135",
+    "addr:street": "Via dell'Esperanto",
+    "defibrillator:location": "L'apparato è installato nella zona delle casse.",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Bricoman",
+    "opening_hours": "Mo-Sa 07:00-20:30; Su 08:30-20:00",
+    "operator": "Bricoman",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Bricoman_Verona.jpg",
+    "id": "node/7048465956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9761091,
+      45.3984265
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7051551215",
+  "properties": {
+    "addr:city": "Villafranca di Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "18",
+    "addr:postcode": "37069",
+    "addr:street": "Via Marsala",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Istituto Bolisani",
+    "id": "node/7051551215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.83928,
+      45.3580956
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7087767995",
+  "properties": {
+    "access": "yes",
+    "addr:city": "San Floriano",
+    "addr:country": "IT",
+    "emergency": "defibrillator",
+    "name": "Pieve Romanica",
+    "id": "node/7087767995"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9080062,
+      45.5177306
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7127690480",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Garda",
+    "addr:country": "IT",
+    "addr:housenumber": "15",
+    "addr:postcode": "37016",
+    "addr:street": "Lungolago Regina Adelaide",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso del Municipio.",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "mapillary": "RT0Nt2hae6Y9bVVysw8luA",
+    "name": "Municipio di Garda",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/7127690480"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7075289,
+      45.5743266
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7127710790",
+  "properties": {
+    "addr:city": "Bardolino",
+    "addr:country": "IT",
+    "addr:housenumber": "6",
+    "addr:postcode": "37011",
+    "addr:street": "Piazzale Gramsci",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Club della Mezza Eta'",
+    "id": "node/7127710790"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7186963,
+      45.5522052
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7127710791",
+  "properties": {
+    "addr:city": "Bardolino",
+    "addr:country": "IT",
+    "addr:housenumber": "10",
+    "addr:postcode": "37011",
+    "addr:street": "Lungo Lago Preite",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Centro Nautico Bardolino",
+    "id": "node/7127710791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7181112,
+      45.5519824
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7144865890",
+  "properties": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37122",
+    "addr:street": "Via Carlo Montanari",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Scuole alle Stimmate",
+    "id": "node/7144865890"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.993383,
+      45.4356734
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7168646404",
+  "properties": {
+    "access": "customers",
+    "addr:city": "San Giovanni Lupatoto",
+    "addr:country": "IT",
+    "addr:postcode": "37057",
+    "addr:street": "Via Monte Cristallo",
+    "defibrillator:location": "L'apparato è installato in fondo vicino all'officina biciclette",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Decathlon",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:30-20:00",
+    "wikimedia_commons": "File:DAE_presso_Decathlon_San_Giovanni_Lupatoto.jpg",
+    "id": "node/7168646404"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0158405,
+      45.3950184
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7175470046",
+  "properties": {
+    "addr:city": "Buttapietra",
+    "addr:country": "IT",
+    "addr:postcode": "37135",
+    "addr:street": "Via Dolomiti",
+    "emergency": "defibrillator",
+    "id": "node/7175470046"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9977114,
+      45.3515383
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7175470047",
+  "properties": {
+    "addr:city": "Povegliano Veronese",
+    "addr:country": "IT",
+    "addr:street": "Piazzale San Rocco",
+    "emergency": "defibrillator",
+    "id": "node/7175470047"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.884732,
+      45.3422553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7175470048",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Alpo",
+    "addr:country": "IT",
+    "addr:housenumber": "77",
+    "addr:postcode": "37062",
+    "addr:street": "Via Luigi Bassani",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della sede del Gruppo Alpini",
+    "emergency": "defibrillator",
+    "name": "Sede Gruppo Alpini",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/7175470048"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.918239,
+      45.3753912
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7204350430",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Valeggio Sul Mincio",
+    "addr:country": "IT",
+    "addr:housenumber": "44",
+    "addr:postcode": "37067",
+    "addr:street": "Piazzale Carlo Alberto",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'Ufficio informazioni IAT",
+    "emergency": "defibrillator",
+    "name": "Ufficio informazioni IAT",
+    "opening_hours": "24/7",
+    "wikimedia_commons": "File:DAE_presso_Ufficio_informazioni_Valeggio_sul_Mincio.jpg",
+    "id": "node/7204350430"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7343104,
+      45.3536265
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7274304327",
+  "properties": {
+    "access": "customers",
+    "addr:city": "Dossobuono",
+    "addr:country": "IT",
+    "addr:postcode": "37062",
+    "addr:street": "Via Borgo Bello",
+    "defibrillator:location": "L'apparato è installato nell'area ristoro vicino alle casse",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Decathlon",
+    "opening_hours": "Mo-Su 09:00-20:30",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Defibrillatore Decathlon Dossobuono.jpg",
+    "id": "node/7274304327"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9029168,
+      45.3907126
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7648382704",
+  "properties": {
+    "addr:city": "Giazza",
+    "addr:country": "IT",
+    "addr:housenumber": "6",
+    "addr:street": "Piazza don Mrcante",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso dell'Osteria Ljetzan",
+    "emergency": "defibrillator",
+    "name": "Osteria Ljetzan",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_Osteria_Ljetzan_Giazza.jpg",
+    "id": "node/7648382704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1226326,
+      45.6531551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7731366888",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Ferrara di Monte Baldo",
+    "addr:country": "IT",
+    "addr:place": "Cambrigar",
+    "addr:postcode": "37020",
+    "defibrillator:location": "L'apparato è installato all'esterno del ristorante vicino ad un portone verde",
+    "emergency": "defibrillator",
+    "name": "Ristorante Albergo Al Cacciatore",
+    "opening_hours": "24/7",
+    "wikimedia_commons": "File:Defibrillatore Ferrara di Monte Baldo.jpg",
+    "id": "node/7731366888"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8518234,
+      45.6891915
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7742932860",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "9",
+    "addr:postcode": "37123",
+    "addr:street": "Piazza Bacanal",
+    "defibrillator:location": "Il defibrillatore è installato sulla parete lato via Pontida sede Croce Bianca Verona",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Croce Bianca Verona",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Croce_Bianca.jpg",
+    "id": "node/7742932860"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9761438,
+      45.4432706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7742961442",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "operator": "Parrocchia Sacro Cuore di Gesù",
+    "id": "node/7742961442"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9825654,
+      45.4564588
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7820434020",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Cerro Veronese",
+    "addr:country": "IT",
+    "addr:housenumber": "52",
+    "addr:postcode": "37020",
+    "addr:street": "Piazza Alferia",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso della Farmacia",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Farmacia Mainieri",
+    "opening_hours": "24/7",
+    "wikimedia_commons": "File:Defibrillatore Farmacia Cerro - Verona.jpg",
+    "id": "node/7820434020"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0381637,
+      45.5747815
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7951758410",
+  "properties": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:postcode": "37136",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Oratorio Golosine",
+    "id": "node/7951758410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.968722,
+      45.4199758
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8037314953",
+  "properties": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:street": "Via Sommacampagna",
+    "emergency": "defibrillator",
+    "name": "Quadrante Servizi",
+    "id": "node/8037314953"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9273112,
+      45.417044
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8312009937",
+  "properties": {
+    "addr:city": "Lugo",
+    "addr:country": "IT",
+    "addr:postcode": "37023",
+    "addr:street": "Via Domenico Da Lugo",
+    "emergency": "defibrillator",
+    "name": "Campo sportivo di Lugo",
+    "id": "node/8312009937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9919581,
+      45.5678927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8312009938",
+  "properties": {
+    "addr:city": "Stallavena",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37023",
+    "addr:street": "Via Tinazzi",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Palestra di Stallavena",
+    "id": "node/8312009938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0025984,
+      45.5436199
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8312009939",
+  "properties": {
+    "addr:city": "Stallavena",
+    "addr:country": "IT",
+    "addr:street": "Via Prealpi",
+    "emergency": "defibrillator",
+    "name": "Centro sportivo di Stallavena",
+    "id": "node/8312009939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0030678,
+      45.5472528
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8312009942",
+  "properties": {
+    "addr:city": "Grezzana",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37023",
+    "addr:street": "Via Roma",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Comune di Grezzana",
+    "id": "node/8312009942"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0162559,
+      45.5185548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8312009943",
+  "properties": {
+    "addr:city": "Grezzana",
+    "addr:country": "IT",
+    "addr:housenumber": "24",
+    "addr:postcode": "37023",
+    "addr:street": "Viale della Rimembranza",
+    "defibrillator:location": "L'apparato è installato nell'atrio della palestra della Scuola Media",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Scuola Primaria - IC \"Giovanni Pascoli\"",
+    "id": "node/8312009943"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0154031,
+      45.5183418
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8312843507",
+  "properties": {
+    "addr:city": "Rosaro",
+    "addr:country": "IT",
+    "addr:postcode": "37023",
+    "addr:street": "Viale Rimembranza",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Canonica di Rosaro",
+    "id": "node/8312843507"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0223421,
+      45.5507461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8314236229",
+  "properties": {
+    "addr:city": "Romagnano",
+    "addr:country": "IT",
+    "addr:postcode": "37023",
+    "addr:street": "Via Villa Sale",
+    "defibrillator:location": "L'apparato è installato all'interno nei pressi del bancone",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Campo sportivo di Romagnano",
+    "id": "node/8314236229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0448794,
+      45.5219121
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8314236240",
+  "properties": {
+    "addr:city": "Grezzana",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "37023",
+    "addr:street": "Via Antonio Segni",
+    "defibrillator:location": "L'apparato è installato all'interno nei pressi del bancone",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Biblioteca Comunale di Grezzana",
+    "id": "node/8314236240"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0215571,
+      45.5224075
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8411887316",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "37126",
+    "addr:street": "Via Ventiquattro Maggio",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della Farmacia.",
+    "emergency": "defibrillator",
+    "name": "Farmacia Martari",
+    "opening_hours": "24/7",
+    "wikimedia_commons": "File:DAE_Farmacia_Martari_Verona.jpg",
+    "id": "node/8411887316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.987627,
+      45.4486332
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8422759179",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Isolalta",
+    "addr:country": "IT",
+    "addr:housenumber": "40B",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso della sala civica Alcide de Gasperi",
+    "emergency": "defibrillator",
+    "name": "Sala Civica Alcide de Gasperi",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8422759179"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9234337,
+      45.3364837
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8582691734",
+  "properties": {
+    "defibrillator:location": "Ambiente aziendale nelle vicinanze della reception",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Addetti alla sicurezza primo soccorso Sime SpA",
+    "id": "node/8582691734"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3032013,
+      45.1841097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8594839714",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:street": "Via Falcona",
+    "defibrillator:location": "L'apparato è installato presso il ponte sulla Fossa Murara",
+    "emergency": "defibrillator",
+    "name": "Percorso della Salute",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:AED_percorso_della_salute.jpg",
+    "id": "node/8594839714"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0748229,
+      45.4431121
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8951268034",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "52",
+    "addr:postcode": "37121",
+    "addr:street": "Via Giuseppe Mazzini",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Farmacia Due Campane",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_due_Campane_Verona.jpg",
+    "id": "node/8951268034"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9947476,
+      45.4407141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8951268035",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Bosco Chiesanuova",
+    "addr:country": "IT",
+    "addr:housenumber": "31",
+    "addr:postcode": "37021",
+    "addr:street": "Via Marcello Carcereri",
+    "defibrillator:location": "L'apparato è installato sotto la tettoia della pizzeria",
+    "emergency": "defibrillator",
+    "name": "Pizzeria da Fabio",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_Pizzeria_da_Fabio_Cerro_Veronese.jpg",
+    "id": "node/8951268035"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0414743,
+      45.5811685
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8956966704",
+  "properties": {
+    "emergency": "defibrillator",
+    "name": "Liceo Statale Carlo Montanari",
+    "id": "node/8956966704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9935983,
+      45.4348015
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8956966713",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "32",
+    "addr:postcode": "37122",
+    "addr:street": "Via del Pontiere",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso carraio della polizia Municipale",
+    "emergency": "defibrillator",
+    "name": "Polizia Municipale",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_sede_Polizia_Municipale_Verona.jpg",
+    "id": "node/8956966713"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9963142,
+      45.4340611
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971440469",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Pradelle",
+    "addr:country": "IT",
+    "addr:housenumber": "38",
+    "addr:postcode": "37060",
+    "addr:street": "Via 9 Maggio",
+    "defibrillator:location": "L'apparato è unstallato sul palo dell'insegna della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia San Leonardo",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_San_Leonardo.jpg",
+    "id": "node/8971440469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.871838,
+      45.2826222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971440474",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Lavagno",
+    "addr:country": "IT",
+    "addr:housenumber": "5",
+    "addr:postcode": "37030",
+    "addr:street": "Via Niccolò Copernico",
+    "defibrillator:location": "L'apparato è unstallato sull'angolo a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Montanari",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_Caldiero.jpg",
+    "id": "node/8971440474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.132601,
+      45.4194101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971440475",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Lavagno",
+    "addr:country": "IT",
+    "addr:housenumber": "44",
+    "addr:postcode": "37030",
+    "addr:street": "Via Fontana",
+    "emergency": "defibrillator",
+    "name": "Farmacia Vanzan",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "id": "node/8971440475"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1372782,
+      45.4258055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971897220",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Legnago",
+    "addr:country": "IT",
+    "addr:housenumber": "16",
+    "addr:postcode": "37045",
+    "addr:street": "Via Casette",
+    "defibrillator:location": "L'apparato è unstallato sulla colonna a sinistra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Mazzon",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8971897220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3095008,
+      45.1872361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971897221",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Raldon",
+    "addr:country": "IT",
+    "addr:housenumber": "43",
+    "addr:postcode": "37057",
+    "addr:street": "Piazza Alcide De Gasperi",
+    "defibrillator:location": "L'apparato è unstallato sull'angolo a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Fiorini",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "id": "node/8971897221"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0472957,
+      45.3493324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8971897224",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Bovolone",
+    "addr:country": "IT",
+    "addr:housenumber": "125",
+    "addr:postcode": "37051",
+    "addr:street": "Via Crosare",
+    "defibrillator:location": "L'apparato è unstallato a sinistra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Crosare",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "id": "node/8971897224"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1051339,
+      45.251485
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8977319937",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "69",
+    "addr:postcode": "37138",
+    "addr:street": "Corso Milano",
+    "defibrillator:location": "Il defibrillatore è installato a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Borgo Milano",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_Borgo_Milano.jpg",
+    "id": "node/8977319937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9710503,
+      45.4432882
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8977881519",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "23A",
+    "addr:postcode": "37134",
+    "addr:street": "Via Bartolomeo Giuliari",
+    "defibrillator:location": "Il defibrillatore è installato sull'angolo della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Bacchini",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:AED_farmacia_Bacchini.jpg",
+    "id": "node/8977881519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9939929,
+      45.41106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8977881521",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "48",
+    "addr:postcode": "37137",
+    "addr:street": "Via Villafranca",
+    "defibrillator:location": "Il defibrillatore è installato a sinistra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Realdon",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_Realdon.jpg",
+    "id": "node/8977881521"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9543354,
+      45.4196782
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8977881522",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "8",
+    "addr:postcode": "37139",
+    "addr:street": "Via San Lucillo",
+    "defibrillator:location": "Il defibrillatore è installato a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Soave",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_farmacia_Soave.jpg",
+    "id": "node/8977881522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9410115,
+      45.4423607
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8982551444",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "28",
+    "addr:postcode": "37131",
+    "addr:street": "Via Villa Cozza",
+    "defibrillator:location": "A destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Marchiori",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_Borgo_Santa_Croce.jpg",
+    "id": "node/8982551444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0228218,
+      45.4489806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8983161623",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37132",
+    "addr:street": "Via Monte Bianco",
+    "defibrillator:location": "Il defibrillatore è installato sull'andolo della Farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Comunale Madonna di Campagna",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8983161623"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0498938,
+      45.4287272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9053733438",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Cerro Veronese",
+    "addr:country": "IT",
+    "addr:housenumber": "4",
+    "addr:postcode": "37020",
+    "defibrillator:location": "Installato a destra dell'ingresso della banca.",
+    "emergency": "defibrillator",
+    "name": "Cassa Rurale Vallgarina",
+    "opening_hours": "24/7",
+    "wikimedia_commons": "File:DAE_presso_Cerro_Veronese.jpg",
+    "id": "node/9053733438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0411082,
+      45.5743658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9055318657",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Roverè Veronese",
+    "addr:country": "IT",
+    "addr:housenumber": "18",
+    "addr:postcode": "37028",
+    "addr:street": "Piazza Vittorio Emanuele",
+    "defibrillator:location": "Installato a destra dell'ingresso della banca",
+    "emergency": "defibrillator",
+    "name": "Cassa Rurale Vallagarina",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Rovere_Veronese.jpg",
+    "id": "node/9055318657"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0657772,
+      45.5935534
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9055318686",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Velo Veronese",
+    "addr:country": "IT",
+    "addr:street": "Piazzetta Attilio Benetti",
+    "defibrillator:location": "Installato in Piazzetta Attilio Benetti",
+    "emergency": "defibrillator",
+    "name": "Piazzetta Attilio Benetti",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Velo_Veronese.jpg",
+    "id": "node/9055318686"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0959853,
+      45.6052329
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9135468181",
+  "properties": {
+    "access": "yes",
+    "addr:city": "San Martino Buon Albergo",
+    "addr:country": "IT",
+    "addr:housenumber": "57",
+    "addr:postcode": "37036",
+    "addr:street": "Via Venti Settembre",
+    "defibrillator:location": "Installato a sinistra dell'ingresso dei Servizi al cittadino del Comune",
+    "emergency": "defibrillator",
+    "name": "Servizi al cittadino",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "support": "wall_mounted",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_San_Martino_Buon_Albergo.jpg",
+    "id": "node/9135468181"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0898788,
+      45.4224965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9135468182",
+  "properties": {
+    "access": "yes",
+    "addr:city": "San Martino Buon Albergo",
+    "addr:country": "IT",
+    "addr:housenumber": "8",
+    "addr:postcode": "37036",
+    "addr:street": "Via Fenil Novo",
+    "defibrillator:location": "Installato a destra dell'ingresso di FN8",
+    "emergency": "defibrillator",
+    "name": "FN8",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "support": "wall_mounted",
+    "wheelchair": "no",
+    "wikimedia_commons": "File:DAE_ZAI_San_Martino_Buonalbergo.jpg",
+    "id": "node/9135468182"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0895033,
+      45.4177983
+    ]
+  }
+}
 ]
 }
