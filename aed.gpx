@@ -531,6 +531,7 @@ indoor=yes
 name=Scuola Primaria Vittorio Locchi
 id=node/6989111487</desc></wpt><wpt lat="45.6931091" lon="10.912182"><name>Area di servizio Adige Ovest</name><desc>access=yes
 emergency=defibrillator
+indoor=no
 name=Area di servizio Adige Ovest
 opening_hours=24/7
 id=node/7024031974</desc></wpt><wpt lat="45.3950203" lon="11.2682484"><name>Cinema Teatro Centrale</name><desc>access=yes
