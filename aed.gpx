@@ -1088,4 +1088,10 @@ outdoor=yes
 support=wall_mounted
 wheelchair=no
 wikimedia_commons=File:DAE_ZAI_San_Martino_Buonalbergo.jpg
-id=node/9135468182</desc></wpt></gpx>
+id=node/9135468182</desc></wpt><wpt lat="45.5243887" lon="11.0420168"><name>Scuola dell'Infanzia Paritaria di Romagnano</name><desc>access=yes
+defibrillator:location=Installato a sinistra dell'ingresso della Scuola dell'Infanzia
+emergency=defibrillator
+name=Scuola dell'Infanzia Paritaria di Romagnano
+opening_hours=24/7
+support=wall_mounted
+id=node/9274409419</desc></wpt></gpx>

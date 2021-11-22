@@ -2658,6 +2658,26 @@
       45.4177983
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9274409419",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Installato a sinistra dell'ingresso della Scuola dell'Infanzia",
+    "emergency": "defibrillator",
+    "name": "Scuola dell'Infanzia Paritaria di Romagnano",
+    "opening_hours": "24/7",
+    "support": "wall_mounted",
+    "id": "node/9274409419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0420168,
+      45.5243887
+    ]
+  }
 }
 ]
 }
