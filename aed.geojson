@@ -2664,11 +2664,18 @@
   "id": "node/9274409419",
   "properties": {
     "access": "yes",
+    "addr:city": "Romagnano",
+    "addr:country": "IT",
+    "addr:housenumber": "10",
+    "addr:postcode": "37023",
+    "addr:street": "Via Emilio Ferrais",
     "defibrillator:location": "Installato a sinistra dell'ingresso della Scuola dell'Infanzia",
     "emergency": "defibrillator",
     "name": "Scuola dell'Infanzia Paritaria di Romagnano",
     "opening_hours": "24/7",
+    "outdoor": "yes",
     "support": "wall_mounted",
+    "wikimedia_commons": "File:DAE_Scuola_Infanzia_Romagnano.jpg",
     "id": "node/9274409419"
   },
   "geometry": {
@@ -2676,6 +2683,33 @@
     "coordinates": [
       11.0420168,
       45.5243887
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9275022915",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "8",
+    "addr:postcode": "37132",
+    "addr:street": "Piazza Frugose",
+    "defibrillator:location": "Installato presso l'ingresso principale della Chiesa",
+    "emergency": "defibrillator",
+    "name": "Chiesa Beato Carlo Steeb",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "support": "wall_mounted",
+    "wikimedia_commons": "File:DAE_Carlo_Steeb.jpg",
+    "id": "node/9275022915"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0534328,
+      45.4338593
     ]
   }
 }
