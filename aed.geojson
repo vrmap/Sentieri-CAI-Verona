@@ -2712,6 +2712,31 @@
       45.4338593
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9325252400",
+  "properties": {
+    "addr:city": "Villafranca di Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "4",
+    "addr:postcode": "37069",
+    "addr:street": "Corso Vittorio Emanuele II",
+    "defibrillator:location": "Installato a destra dell'ingresso della canonica",
+    "emergency": "defibrillator",
+    "name": "Canonica di Villafranca",
+    "outdoor": "yes",
+    "support": "wall_mounted",
+    "wikimedia_commons": "File:DAE_Canonica_di_Villafranca.jpg",
+    "id": "node/9325252400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8451499,
+      45.3518418
+    ]
+  }
 }
 ]
 }

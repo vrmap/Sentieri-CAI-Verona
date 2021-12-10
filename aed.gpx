@@ -1114,4 +1114,15 @@ opening_hours=24/7
 outdoor=yes
 support=wall_mounted
 wikimedia_commons=File:DAE_Carlo_Steeb.jpg
-id=node/9275022915</desc></wpt></gpx>
+id=node/9275022915</desc></wpt><wpt lat="45.3518418" lon="10.8451499"><name>Canonica di Villafranca</name><desc>addr:city=Villafranca di Verona
+addr:country=IT
+addr:housenumber=4
+addr:postcode=37069
+addr:street=Corso Vittorio Emanuele II
+defibrillator:location=Installato a destra dell'ingresso della canonica
+emergency=defibrillator
+name=Canonica di Villafranca
+outdoor=yes
+support=wall_mounted
+wikimedia_commons=File:DAE_Canonica_di_Villafranca.jpg
+id=node/9325252400</desc></wpt></gpx>
