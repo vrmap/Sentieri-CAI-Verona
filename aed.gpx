@@ -1125,4 +1125,14 @@ name=Canonica di Villafranca
 outdoor=yes
 support=wall_mounted
 wikimedia_commons=File:DAE_Canonica_di_Villafranca.jpg
-id=node/9325252400</desc></wpt></gpx>
+id=node/9325252400</desc></wpt><wpt lat="45.6284389" lon="10.9866554"><name>ex Bar Trattoria Campedelli</name><desc>access=yes
+addr:city=Cappella Fasani
+addr:country=IT
+addr:housenumber=15
+addr:postcode=37020
+addr:street=Via Fasani di Sopra
+defibrillator:location=Installato presso l'ingresso della trattoria
+emergency=defibrillator
+name=ex Bar Trattoria Campedelli
+opening_hours=24/7
+id=node/9415987421</desc></wpt></gpx>
