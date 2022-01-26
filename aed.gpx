@@ -1001,6 +1001,7 @@ addr:postcode=37139
 addr:street=Via San Lucillo
 defibrillator:location=Il defibrillatore è installato a destra dell'ingresso della farmacia
 emergency=defibrillator
+indoor=no
 name=Farmacia Soave
 opening_hours=24/7
 wheelchair=yes
