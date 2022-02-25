@@ -2762,6 +2762,31 @@
       45.6284389
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9533101095",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Nogarole Rocca",
+    "addr:country": "IT",
+    "addr:housenumber": "38",
+    "addr:postcode": "37060",
+    "addr:street": "Via Roma",
+    "defibrillator:location": "installato a destra dell'ingresso del Municipio",
+    "emergency": "defibrillator",
+    "name": "Municipio",
+    "opening_hours": "24/7",
+    "support": "wall_mounted",
+    "id": "node/9533101095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8835912,
+      45.2915675
+    ]
+  }
 }
 ]
 }

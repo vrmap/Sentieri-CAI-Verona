@@ -1136,4 +1136,15 @@ defibrillator:location=Installato presso l'ingresso della trattoria
 emergency=defibrillator
 name=ex Bar Trattoria Campedelli
 opening_hours=24/7
-id=node/9415987421</desc></wpt></gpx>
+id=node/9415987421</desc></wpt><wpt lat="45.2915675" lon="10.8835912"><name>Municipio</name><desc>access=yes
+addr:city=Nogarole Rocca
+addr:country=IT
+addr:housenumber=38
+addr:postcode=37060
+addr:street=Via Roma
+defibrillator:location=installato a destra dell'ingresso del Municipio
+emergency=defibrillator
+name=Municipio
+opening_hours=24/7
+support=wall_mounted
+id=node/9533101095</desc></wpt></gpx>
