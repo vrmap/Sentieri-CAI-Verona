@@ -767,7 +767,7 @@ addr:country=IT
 addr:street=Via Prealpi
 emergency=defibrillator
 name=Centro sportivo di Stallavena
-id=node/8312009939</desc></wpt><wpt lat="45.5185548" lon="11.0162559"><name>Comune di Grezzana</name><desc>addr:city=Grezzana
+id=node/8312009939</desc></wpt><wpt lat="45.5185858" lon="11.0162552"><name>Comune di Grezzana</name><desc>addr:city=Grezzana
 addr:country=IT
 addr:housenumber=1
 addr:postcode=37023
