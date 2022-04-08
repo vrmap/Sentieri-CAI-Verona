@@ -662,6 +662,7 @@
     "addr:street": "Via Oregolo",
     "defibrillator:location": "installato di fianco alla dx della porta di ingresso del ristorante",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Campi sportivi polivalenti comunali",
     "opening_hours": "Mo-Su 08:00-24:00",
     "wheelchair": "yes",
