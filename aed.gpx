@@ -1148,4 +1148,12 @@ emergency=defibrillator
 name=Municipio
 opening_hours=24/7
 support=wall_mounted
-id=node/9533101095</desc></wpt></gpx>
+id=node/9533101095</desc></wpt><wpt lat="45.5463573" lon="11.0457541"><name>node/9692774858</name><desc>access=yes
+addr:city=Azzago
+addr:country=IT
+addr:postcode=37023
+addr:street=Via Praro
+emergency=defibrillator
+opening_hours=24/7
+support=wall_mounted
+id=node/9692774858</desc></wpt></gpx>

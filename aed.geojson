@@ -2788,6 +2788,28 @@
       45.2915675
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9692774858",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Azzago",
+    "addr:country": "IT",
+    "addr:postcode": "37023",
+    "addr:street": "Via Praro",
+    "emergency": "defibrillator",
+    "opening_hours": "24/7",
+    "support": "wall_mounted",
+    "id": "node/9692774858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0457541,
+      45.5463573
+    ]
+  }
 }
 ]
 }
