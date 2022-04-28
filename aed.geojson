@@ -2810,6 +2810,38 @@
       45.5463573
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9697615888",
+  "properties": {
+    "defibrillator:location": "Di fianco all'ingresso Autogrill",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/9697615888"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8964882,
+      45.2973874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9699057715",
+  "properties": {
+    "emergency": "defibrillator",
+    "id": "node/9699057715"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.2458638,
+      45.4200249
+    ]
+  }
 }
 ]
 }

@@ -1156,4 +1156,8 @@ addr:street=Via Praro
 emergency=defibrillator
 opening_hours=24/7
 support=wall_mounted
-id=node/9692774858</desc></wpt></gpx>
+id=node/9692774858</desc></wpt><wpt lat="45.2973874" lon="10.8964882"><name>node/9697615888</name><desc>defibrillator:location=Di fianco all'ingresso Autogrill
+emergency=defibrillator
+indoor=no
+id=node/9697615888</desc></wpt><wpt lat="45.4200249" lon="11.2458638"><name>node/9699057715</name><desc>emergency=defibrillator
+id=node/9699057715</desc></wpt></gpx>
