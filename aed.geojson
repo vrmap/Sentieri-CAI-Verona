@@ -137,6 +137,7 @@
     "addr:street": "Piazza Brà",
     "defibrillator:location": "L'apparato è installato a destra dell'ingresso della Farmacia dietro la colonna d'angolo del porticato",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Farmacia Internazionale",
     "opening_hours": "24/7",
     "outdoor": "yes",
