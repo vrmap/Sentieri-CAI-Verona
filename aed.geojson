@@ -82,6 +82,7 @@
     "addr:street": "Piazza della Chiesa",
     "defibrillator:location": "L'apparato è installato nel tunnel che collega Piazza della Chiesa a Piazza Guglielmo Marconi",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Municipio Bosco Chiesanuova",
     "opening_hours": "24/7",
     "operator": "Comune Bosco Chiesanuova",
