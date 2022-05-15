@@ -2844,6 +2844,22 @@
       45.4200249
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9740064291",
+  "properties": {
+    "emergency": "defibrillator",
+    "fixme": "Position SW side of path. Anyway close and right of post box.",
+    "id": "node/9740064291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8561083,
+      45.6491913
+    ]
+  }
 }
 ]
 }
