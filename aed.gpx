@@ -1164,4 +1164,5 @@ indoor=no
 id=node/9697615888</desc></wpt><wpt lat="45.4200249" lon="11.2458638"><name>node/9699057715</name><desc>emergency=defibrillator
 id=node/9699057715</desc></wpt><wpt lat="45.6491913" lon="10.8561083"><name>node/9740064291</name><desc>emergency=defibrillator
 fixme=Position SW side of path. Anyway close and right of post box.
-id=node/9740064291</desc></wpt></gpx>
+id=node/9740064291</desc></wpt><wpt lat="45.6077753" lon="10.7983367"><name>node/9742104937</name><desc>emergency=defibrillator
+id=node/9742104937</desc></wpt></gpx>
