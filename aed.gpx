@@ -1072,6 +1072,7 @@ addr:postcode=37036
 addr:street=Via Venti Settembre
 defibrillator:location=Installato a sinistra dell'ingresso dei Servizi al cittadino del Comune
 emergency=defibrillator
+indoor=no
 name=Servizi al cittadino
 opening_hours=24/7
 outdoor=yes
