@@ -2892,6 +2892,22 @@
       45.1789459
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9781610751",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/9781610751"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1808384,
+      45.1814955
+    ]
+  }
 }
 ]
 }
