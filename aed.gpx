@@ -1170,4 +1170,6 @@ id=node/9742104937</desc></wpt><wpt lat="45.1789459" lon="11.0612744"><name>node
 indoor=no
 id=node/9774923904</desc></wpt><wpt lat="45.1814955" lon="11.1808384"><name>node/9781610751</name><desc>emergency=defibrillator
 indoor=no
-id=node/9781610751</desc></wpt></gpx>
+id=node/9781610751</desc></wpt><wpt lat="45.1714954" lon="11.3014162"><name>node/9859598717</name><desc>access=private
+emergency=defibrillator
+id=node/9859598717</desc></wpt></gpx>

@@ -2908,6 +2908,22 @@
       45.1814955
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9859598717",
+  "properties": {
+    "access": "private",
+    "emergency": "defibrillator",
+    "id": "node/9859598717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3014162,
+      45.1714954
+    ]
+  }
 }
 ]
 }
