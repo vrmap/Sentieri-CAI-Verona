@@ -2924,6 +2924,22 @@
       45.1714954
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9861988214",
+  "properties": {
+    "emergency": "defibrillator",
+    "name": "Defibrillator (AED)",
+    "id": "node/9861988214"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.6855212,
+      45.6080971
+    ]
+  }
 }
 ]
 }
