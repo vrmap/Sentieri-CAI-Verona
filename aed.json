@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.58.3 b33c3320",
+  "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-07-20T10:09:34Z",
-    "timestamp_areas_base": "2022-07-19T10:39:23Z",
+    "timestamp_osm_base": "2022-07-21T10:08:54Z",
+    "timestamp_areas_base": "2022-07-20T11:06:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2190,6 +2190,18 @@
   "tags": {
     "emergency": "defibrillator",
     "name": "Defibrillator (AED)"
+  }
+},
+{
+  "type": "node",
+  "id": 9901237770,
+  "lat": 45.5402205,
+  "lon": 10.7806625,
+  "tags": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "wheelchair": "yes"
   }
 }
 

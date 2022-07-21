@@ -1174,4 +1174,8 @@ id=node/9781610751</desc></wpt><wpt lat="45.1714954" lon="11.3014162"><name>node
 emergency=defibrillator
 id=node/9859598717</desc></wpt><wpt lat="45.6080971" lon="10.6855212"><name>Defibrillator (AED)</name><desc>emergency=defibrillator
 name=Defibrillator (AED)
-id=node/9861988214</desc></wpt></gpx>
+id=node/9861988214</desc></wpt><wpt lat="45.5402205" lon="10.7806625"><name>node/9901237770</name><desc>access=yes
+emergency=defibrillator
+indoor=no
+wheelchair=yes
+id=node/9901237770</desc></wpt></gpx>

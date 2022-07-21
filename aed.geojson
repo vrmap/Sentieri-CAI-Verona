@@ -2940,6 +2940,24 @@
       45.6080971
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9901237770",
+  "properties": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "wheelchair": "yes",
+    "id": "node/9901237770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7806625,
+      45.5402205
+    ]
+  }
 }
 ]
 }
